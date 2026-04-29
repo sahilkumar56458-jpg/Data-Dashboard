@@ -1,0 +1,501 @@
+Order Date,Ship Date,Ship Mode,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+2023-10-17,2023-10-18,First Class,Customer 1,Consumer,United States,San Diego,California,22280,Central,PID-1001,Furniture,Chairs,Chairs Model 14,1120.52,3,0.0,106.73
+2022-08-27,2022-09-01,First Class,Customer 2,Consumer,United States,San Diego,California,65392,West,PID-1002,Technology,Copiers,Copiers Model 22,1992.33,9,0.3,188.54
+2022-10-12,2022-10-14,First Class,Customer 3,Home Office,United States,Dallas,Texas,70217,East,PID-1003,Furniture,Tables,Tables Model 35,384.62,2,0.2,39.18
+2022-05-08,2022-05-12,Second Class,Customer 4,Corporate,United States,San Diego,California,20458,Central,PID-1004,Technology,Copiers,Copiers Model 15,1782.77,6,0.0,-315.71
+2022-04-14,2022-04-18,First Class,Customer 5,Home Office,United States,Buffalo,New York,93227,Central,PID-1005,Furniture,Tables,Tables Model 11,723.38,6,0.2,109.17
+2023-07-01,2023-07-07,First Class,Customer 6,Consumer,United States,Houston,Texas,14207,South,PID-1006,Office Supplies,Paper,Paper Model 21,1128.74,9,0.2,249.93
+2023-02-15,2023-02-18,Second Class,Customer 7,Consumer,United States,Los Angeles,California,83579,Central,PID-1007,Furniture,Bookcases,Bookcases Model 35,1679.23,8,0.3,-215.89
+2022-09-27,2022-10-03,First Class,Customer 8,Consumer,United States,Tampa,Florida,92240,South,PID-1008,Office Supplies,Binders,Binders Model 11,793.72,3,0.0,141.2
+2023-11-28,2023-12-02,First Class,Customer 9,Home Office,United States,San Francisco,California,80381,South,PID-1009,Technology,Accessories,Accessories Model 49,1266.11,9,0.0,177.43
+2022-10-01,2022-10-08,Second Class,Customer 10,Home Office,United States,New York City,New York,23947,Central,PID-1010,Office Supplies,Binders,Binders Model 41,172.46,8,0.2,49.31
+2022-11-02,2022-11-09,First Class,Customer 11,Corporate,United States,Houston,Texas,50306,Central,PID-1011,Furniture,Bookcases,Bookcases Model 16,4147.89,9,0.2,183.76
+2022-03-01,2022-03-03,Second Class,Customer 12,Corporate,United States,Los Angeles,California,79163,South,PID-1012,Furniture,Bookcases,Bookcases Model 39,244.88,3,0.3,66.96
+2023-03-10,2023-03-12,Second Class,Customer 13,Consumer,United States,Austin,Texas,54313,Central,PID-1013,Office Supplies,Art,Art Model 2,1381.73,6,0.3,-192.75
+2023-08-26,2023-08-31,First Class,Customer 14,Home Office,United States,Austin,Texas,41195,West,PID-1014,Furniture,Chairs,Chairs Model 18,129.89,1,0.0,29.85
+2023-11-17,2023-11-21,Second Class,Customer 15,Consumer,United States,Austin,Texas,22704,West,PID-1015,Technology,Copiers,Copiers Model 43,2468.82,10,0.3,503.02
+2023-03-18,2023-03-21,First Class,Customer 16,Consumer,United States,Orlando,Florida,35112,South,PID-1016,Technology,Phones,Phones Model 13,98.19,2,0.2,19.67
+2023-07-04,2023-07-08,First Class,Customer 17,Consumer,United States,Dallas,Texas,95477,West,PID-1017,Office Supplies,Paper,Paper Model 35,1759.01,4,0.0,37.93
+2022-01-16,2022-01-17,First Class,Customer 18,Corporate,United States,Houston,Texas,44760,South,PID-1018,Office Supplies,Paper,Paper Model 30,1740.13,4,0.0,-204.78
+2022-10-20,2022-10-24,First Class,Customer 19,Consumer,United States,Miami,Florida,86569,West,PID-1019,Office Supplies,Binders,Binders Model 31,298.01,1,0.0,51.85
+2023-05-30,2023-06-06,Second Class,Customer 20,Home Office,United States,Houston,Texas,87924,East,PID-1020,Furniture,Chairs,Chairs Model 3,526.21,10,0.1,0.99
+2023-09-27,2023-09-28,Standard Class,Customer 21,Corporate,United States,Tampa,Florida,51441,Central,PID-1021,Office Supplies,Binders,Binders Model 49,807.42,6,0.3,-108.65
+2022-03-16,2022-03-17,First Class,Customer 22,Consumer,United States,Tampa,Florida,58434,East,PID-1022,Furniture,Bookcases,Bookcases Model 19,1051.3,4,0.1,280.31
+2022-06-11,2022-06-15,Second Class,Customer 23,Corporate,United States,Rochester,New York,25129,East,PID-1023,Technology,Copiers,Copiers Model 7,2336.21,5,0.0,629.53
+2023-07-21,2023-07-23,Standard Class,Customer 24,Consumer,United States,Buffalo,New York,22097,West,PID-1024,Technology,Accessories,Accessories Model 41,1399.99,4,0.2,73.79
+2023-03-10,2023-03-17,Same Day,Customer 25,Home Office,United States,New York City,New York,11267,East,PID-1025,Office Supplies,Binders,Binders Model 8,487.8,5,0.3,36.99
+2022-03-19,2022-03-25,Standard Class,Customer 26,Consumer,United States,Austin,Texas,56898,East,PID-1026,Office Supplies,Art,Art Model 14,819.77,9,0.1,-146.81
+2023-11-30,2023-12-02,Second Class,Customer 27,Corporate,United States,San Francisco,California,13248,South,PID-1027,Technology,Copiers,Copiers Model 12,1393.1,3,0.1,323.62
+2022-12-07,2022-12-14,Second Class,Customer 28,Consumer,United States,Tampa,Florida,70332,West,PID-1028,Office Supplies,Binders,Binders Model 23,407.24,2,0.0,93.38
+2022-11-09,2022-11-16,Standard Class,Customer 29,Corporate,United States,Houston,Texas,94080,East,PID-1029,Technology,Phones,Phones Model 33,1242.96,7,0.0,352.31
+2023-02-14,2023-02-20,Same Day,Customer 30,Corporate,United States,New York City,New York,51114,East,PID-1030,Office Supplies,Binders,Binders Model 28,4820.16,10,0.2,-871.83
+2023-09-13,2023-09-18,First Class,Customer 31,Home Office,United States,San Francisco,California,53279,West,PID-1031,Office Supplies,Binders,Binders Model 40,145.68,7,0.1,-2.61
+2022-11-18,2022-11-24,Second Class,Customer 32,Corporate,United States,San Diego,California,97153,Central,PID-1032,Technology,Accessories,Accessories Model 25,1235.97,7,0.2,95.42
+2023-11-25,2023-12-01,Standard Class,Customer 33,Corporate,United States,Austin,Texas,67905,Central,PID-1033,Office Supplies,Art,Art Model 29,165.86,1,0.1,2.48
+2023-11-23,2023-11-25,Second Class,Customer 34,Home Office,United States,Tampa,Florida,50687,West,PID-1034,Technology,Phones,Phones Model 15,1337.08,5,0.2,-204.98
+2022-07-23,2022-07-25,Same Day,Customer 35,Corporate,United States,Los Angeles,California,62383,West,PID-1035,Office Supplies,Art,Art Model 16,477.2,2,0.1,75.96
+2022-06-01,2022-06-07,First Class,Customer 36,Corporate,United States,Los Angeles,California,27477,South,PID-1036,Furniture,Chairs,Chairs Model 30,2186.86,9,0.1,565.82
+2023-11-15,2023-11-20,Second Class,Customer 37,Home Office,United States,Buffalo,New York,46347,South,PID-1037,Technology,Accessories,Accessories Model 50,1130.86,3,0.3,28.31
+2023-06-18,2023-06-22,First Class,Customer 38,Consumer,United States,Dallas,Texas,29769,South,PID-1038,Furniture,Bookcases,Bookcases Model 15,662.78,5,0.2,-26.61
+2023-01-28,2023-02-03,Second Class,Customer 39,Corporate,United States,Austin,Texas,61049,West,PID-1039,Furniture,Tables,Tables Model 50,1251.76,7,0.3,9.87
+2023-08-22,2023-08-28,Same Day,Customer 40,Home Office,United States,San Diego,California,81582,South,PID-1040,Office Supplies,Binders,Binders Model 39,980.0,6,0.3,222.19
+2022-08-14,2022-08-18,Same Day,Customer 41,Consumer,United States,Dallas,Texas,91560,South,PID-1041,Office Supplies,Binders,Binders Model 35,1269.4,7,0.3,205.76
+2022-01-28,2022-02-01,Same Day,Customer 42,Corporate,United States,Los Angeles,California,54236,South,PID-1042,Furniture,Tables,Tables Model 49,132.41,3,0.3,-4.81
+2023-01-24,2023-01-27,First Class,Customer 43,Home Office,United States,Orlando,Florida,15276,East,PID-1043,Office Supplies,Binders,Binders Model 49,405.01,9,0.2,-35.6
+2022-02-01,2022-02-03,Standard Class,Customer 44,Corporate,United States,Houston,Texas,31992,West,PID-1044,Furniture,Chairs,Chairs Model 39,2730.72,8,0.1,88.79
+2023-09-14,2023-09-20,Second Class,Customer 45,Consumer,United States,Los Angeles,California,87607,Central,PID-1045,Furniture,Bookcases,Bookcases Model 45,465.87,1,0.3,-0.78
+2023-10-05,2023-10-07,Same Day,Customer 46,Home Office,United States,San Diego,California,58571,Central,PID-1046,Technology,Copiers,Copiers Model 5,804.38,2,0.0,-21.23
+2023-06-03,2023-06-09,Same Day,Customer 47,Consumer,United States,New York City,New York,78386,South,PID-1047,Office Supplies,Binders,Binders Model 42,3368.25,7,0.3,517.55
+2022-10-04,2022-10-09,First Class,Customer 48,Corporate,United States,Orlando,Florida,69087,South,PID-1048,Technology,Copiers,Copiers Model 16,873.53,5,0.1,188.13
+2023-04-21,2023-04-26,Standard Class,Customer 49,Corporate,United States,Orlando,Florida,88139,East,PID-1049,Office Supplies,Paper,Paper Model 45,762.07,3,0.2,151.59
+2022-10-10,2022-10-15,Same Day,Customer 50,Corporate,United States,San Diego,California,12260,West,PID-1050,Furniture,Chairs,Chairs Model 6,1781.62,7,0.1,258.88
+2022-10-29,2022-10-31,Standard Class,Customer 51,Corporate,United States,Tampa,Florida,69473,West,PID-1051,Office Supplies,Art,Art Model 18,1971.3,10,0.2,25.14
+2022-11-10,2022-11-13,Same Day,Customer 52,Corporate,United States,Houston,Texas,87278,West,PID-1052,Office Supplies,Binders,Binders Model 49,4287.79,9,0.1,-446.91
+2023-06-22,2023-06-27,Second Class,Customer 53,Corporate,United States,New York City,New York,15965,West,PID-1053,Office Supplies,Binders,Binders Model 4,636.79,6,0.0,98.07
+2023-07-21,2023-07-24,Second Class,Customer 54,Consumer,United States,Austin,Texas,43092,South,PID-1054,Furniture,Chairs,Chairs Model 31,1564.83,10,0.3,31.66
+2022-04-27,2022-05-04,Second Class,Customer 55,Consumer,United States,San Francisco,California,83147,South,PID-1055,Furniture,Bookcases,Bookcases Model 49,92.83,1,0.2,-14.61
+2023-03-03,2023-03-08,First Class,Customer 56,Home Office,United States,Austin,Texas,23006,South,PID-1056,Office Supplies,Paper,Paper Model 49,2164.4,5,0.3,-102.4
+2022-08-01,2022-08-07,Same Day,Customer 57,Home Office,United States,Dallas,Texas,87832,East,PID-1057,Furniture,Chairs,Chairs Model 31,854.87,3,0.1,-169.83
+2022-10-26,2022-10-27,Second Class,Customer 58,Corporate,United States,Dallas,Texas,25043,Central,PID-1058,Technology,Accessories,Accessories Model 35,699.89,2,0.2,135.72
+2022-08-19,2022-08-25,Same Day,Customer 59,Home Office,United States,Dallas,Texas,49857,West,PID-1059,Furniture,Chairs,Chairs Model 45,1201.39,3,0.2,23.52
+2023-02-17,2023-02-20,Second Class,Customer 60,Home Office,United States,Orlando,Florida,85392,East,PID-1060,Technology,Phones,Phones Model 38,2608.03,7,0.2,-487.88
+2022-01-22,2022-01-29,Same Day,Customer 61,Home Office,United States,Rochester,New York,74451,East,PID-1061,Furniture,Tables,Tables Model 6,2994.52,9,0.2,-327.17
+2023-04-27,2023-04-30,Same Day,Customer 62,Home Office,United States,Orlando,Florida,14809,Central,PID-1062,Technology,Phones,Phones Model 30,534.92,3,0.3,-29.9
+2022-04-01,2022-04-04,Second Class,Customer 63,Home Office,United States,Buffalo,New York,57419,East,PID-1063,Office Supplies,Art,Art Model 40,335.68,1,0.3,2.22
+2023-05-26,2023-06-01,Same Day,Customer 64,Consumer,United States,Miami,Florida,13783,West,PID-1064,Office Supplies,Art,Art Model 41,1395.85,3,0.3,335.59
+2023-09-16,2023-09-23,First Class,Customer 65,Corporate,United States,Austin,Texas,25396,West,PID-1065,Office Supplies,Art,Art Model 42,285.08,1,0.0,-24.99
+2022-06-07,2022-06-11,Second Class,Customer 66,Consumer,United States,Rochester,New York,46208,Central,PID-1066,Office Supplies,Paper,Paper Model 50,1095.93,8,0.1,-8.99
+2023-03-01,2023-03-04,Same Day,Customer 67,Home Office,United States,New York City,New York,73483,Central,PID-1067,Technology,Accessories,Accessories Model 23,2983.63,10,0.3,694.08
+2022-12-07,2022-12-12,Same Day,Customer 68,Consumer,United States,Orlando,Florida,51704,Central,PID-1068,Furniture,Bookcases,Bookcases Model 48,1177.85,4,0.1,268.56
+2023-04-30,2023-05-06,Same Day,Customer 69,Consumer,United States,Orlando,Florida,78937,West,PID-1069,Office Supplies,Binders,Binders Model 30,783.3,3,0.2,183.96
+2022-01-16,2022-01-22,Standard Class,Customer 70,Home Office,United States,Dallas,Texas,79942,West,PID-1070,Furniture,Tables,Tables Model 25,912.55,5,0.3,113.99
+2022-11-21,2022-11-27,First Class,Customer 71,Corporate,United States,Tampa,Florida,22903,East,PID-1071,Technology,Phones,Phones Model 49,1291.83,4,0.2,385.89
+2023-10-11,2023-10-17,Standard Class,Customer 72,Corporate,United States,San Francisco,California,29080,West,PID-1072,Technology,Accessories,Accessories Model 16,42.08,1,0.0,-2.24
+2023-06-28,2023-07-02,Second Class,Customer 73,Consumer,United States,Houston,Texas,70443,West,PID-1073,Furniture,Bookcases,Bookcases Model 41,2222.23,7,0.1,108.52
+2022-09-18,2022-09-22,Standard Class,Customer 74,Home Office,United States,Rochester,New York,65615,East,PID-1074,Office Supplies,Paper,Paper Model 45,862.45,9,0.3,235.12
+2022-09-14,2022-09-18,Standard Class,Customer 75,Consumer,United States,New York City,New York,96275,South,PID-1075,Office Supplies,Binders,Binders Model 26,812.22,4,0.2,70.99
+2022-10-09,2022-10-10,Standard Class,Customer 76,Home Office,United States,San Diego,California,96400,South,PID-1076,Office Supplies,Binders,Binders Model 44,4049.27,10,0.1,479.06
+2022-05-21,2022-05-27,Standard Class,Customer 77,Corporate,United States,San Diego,California,64460,East,PID-1077,Office Supplies,Paper,Paper Model 12,298.2,1,0.1,-46.2
+2022-07-25,2022-07-27,Standard Class,Customer 78,Consumer,United States,Rochester,New York,71385,Central,PID-1078,Furniture,Tables,Tables Model 5,3874.75,8,0.2,671.42
+2022-05-25,2022-06-01,First Class,Customer 79,Corporate,United States,Austin,Texas,58311,South,PID-1079,Technology,Accessories,Accessories Model 44,799.05,2,0.0,-54.15
+2023-11-20,2023-11-23,Second Class,Customer 80,Home Office,United States,Tampa,Florida,18285,Central,PID-1080,Furniture,Bookcases,Bookcases Model 41,985.24,4,0.2,253.83
+2023-04-21,2023-04-27,First Class,Customer 81,Consumer,United States,Rochester,New York,40775,South,PID-1081,Furniture,Chairs,Chairs Model 35,474.21,1,0.2,141.3
+2022-05-19,2022-05-23,Same Day,Customer 82,Corporate,United States,Orlando,Florida,14288,South,PID-1082,Technology,Copiers,Copiers Model 45,1335.0,3,0.0,289.49
+2023-01-15,2023-01-17,Standard Class,Customer 83,Consumer,United States,Orlando,Florida,26011,West,PID-1083,Office Supplies,Binders,Binders Model 30,1688.06,6,0.2,-286.51
+2022-04-04,2022-04-10,Second Class,Customer 84,Home Office,United States,Austin,Texas,38305,East,PID-1084,Furniture,Tables,Tables Model 15,1978.54,4,0.1,-327.83
+2022-12-03,2022-12-10,First Class,Customer 85,Consumer,United States,Austin,Texas,11947,East,PID-1085,Office Supplies,Binders,Binders Model 23,837.91,3,0.1,-121.53
+2022-09-01,2022-09-06,Same Day,Customer 86,Corporate,United States,New York City,New York,57453,West,PID-1086,Office Supplies,Binders,Binders Model 33,1128.07,3,0.0,194.97
+2023-08-31,2023-09-01,Same Day,Customer 87,Corporate,United States,Tampa,Florida,65872,West,PID-1087,Technology,Phones,Phones Model 44,1483.04,9,0.0,-251.5
+2022-04-21,2022-04-25,Standard Class,Customer 88,Corporate,United States,Miami,Florida,88301,East,PID-1088,Office Supplies,Art,Art Model 34,154.58,3,0.2,17.34
+2022-10-29,2022-11-02,Second Class,Customer 89,Corporate,United States,Miami,Florida,54424,East,PID-1089,Technology,Copiers,Copiers Model 30,3294.03,9,0.1,49.53
+2023-02-13,2023-02-17,Same Day,Customer 90,Consumer,United States,San Francisco,California,21957,South,PID-1090,Office Supplies,Art,Art Model 6,998.32,5,0.1,143.17
+2022-04-06,2022-04-10,Same Day,Customer 91,Corporate,United States,San Diego,California,97207,Central,PID-1091,Furniture,Bookcases,Bookcases Model 49,301.5,1,0.2,40.7
+2023-03-10,2023-03-17,Second Class,Customer 92,Consumer,United States,San Francisco,California,55890,Central,PID-1092,Office Supplies,Binders,Binders Model 36,2635.58,10,0.1,338.32
+2023-01-12,2023-01-13,Standard Class,Customer 93,Consumer,United States,Rochester,New York,33647,West,PID-1093,Office Supplies,Art,Art Model 18,3145.15,10,0.0,328.66
+2023-12-21,2023-12-28,First Class,Customer 94,Consumer,United States,Buffalo,New York,79531,Central,PID-1094,Furniture,Chairs,Chairs Model 14,875.5,3,0.3,-144.64
+2023-01-21,2023-01-25,Second Class,Customer 95,Consumer,United States,Orlando,Florida,90981,West,PID-1095,Office Supplies,Paper,Paper Model 4,2357.29,6,0.0,569.69
+2023-11-22,2023-11-23,First Class,Customer 96,Corporate,United States,Buffalo,New York,66349,South,PID-1096,Office Supplies,Art,Art Model 8,1750.47,8,0.1,310.66
+2022-10-18,2022-10-24,Standard Class,Customer 97,Consumer,United States,Tampa,Florida,27987,Central,PID-1097,Furniture,Chairs,Chairs Model 49,3447.74,7,0.0,-676.3
+2022-09-19,2022-09-22,Second Class,Customer 98,Home Office,United States,New York City,New York,83233,East,PID-1098,Office Supplies,Art,Art Model 43,730.33,7,0.3,48.41
+2022-12-29,2022-12-30,Same Day,Customer 99,Home Office,United States,Tampa,Florida,93904,East,PID-1099,Office Supplies,Binders,Binders Model 27,3697.26,8,0.2,324.91
+2022-10-24,2022-10-25,First Class,Customer 100,Consumer,United States,Miami,Florida,67104,Central,PID-1100,Furniture,Bookcases,Bookcases Model 38,3354.98,8,0.2,-523.16
+2023-02-15,2023-02-20,First Class,Customer 101,Home Office,United States,San Francisco,California,76840,Central,PID-1101,Technology,Accessories,Accessories Model 13,719.49,4,0.1,-116.42
+2022-12-24,2022-12-27,First Class,Customer 102,Consumer,United States,Houston,Texas,92306,East,PID-1102,Furniture,Tables,Tables Model 32,413.12,4,0.1,74.41
+2023-04-21,2023-04-28,Standard Class,Customer 103,Corporate,United States,Tampa,Florida,87518,Central,PID-1103,Technology,Accessories,Accessories Model 4,693.26,3,0.3,14.63
+2022-12-27,2023-01-01,First Class,Customer 104,Home Office,United States,San Francisco,California,87867,South,PID-1104,Office Supplies,Binders,Binders Model 33,196.99,1,0.2,-31.84
+2023-01-29,2023-02-02,Standard Class,Customer 105,Home Office,United States,San Francisco,California,21053,West,PID-1105,Office Supplies,Art,Art Model 33,2085.25,8,0.0,52.68
+2023-10-24,2023-10-26,Standard Class,Customer 106,Corporate,United States,Los Angeles,California,63578,South,PID-1106,Office Supplies,Art,Art Model 50,2814.36,9,0.2,-38.2
+2022-12-13,2022-12-19,Second Class,Customer 107,Corporate,United States,San Diego,California,20682,Central,PID-1107,Furniture,Tables,Tables Model 38,575.64,2,0.3,-33.34
+2023-11-11,2023-11-13,Standard Class,Customer 108,Consumer,United States,Buffalo,New York,97833,South,PID-1108,Furniture,Bookcases,Bookcases Model 45,337.2,2,0.3,41.05
+2023-12-03,2023-12-08,Standard Class,Customer 109,Corporate,United States,San Diego,California,35166,South,PID-1109,Technology,Accessories,Accessories Model 15,194.05,1,0.1,53.48
+2022-05-21,2022-05-23,Second Class,Customer 110,Home Office,United States,San Francisco,California,59377,East,PID-1110,Technology,Copiers,Copiers Model 10,343.07,9,0.2,81.72
+2022-06-16,2022-06-18,Standard Class,Customer 111,Home Office,United States,Austin,Texas,68841,South,PID-1111,Furniture,Tables,Tables Model 15,2067.93,6,0.1,588.93
+2023-07-01,2023-07-03,Same Day,Customer 112,Home Office,United States,Buffalo,New York,79135,West,PID-1112,Office Supplies,Art,Art Model 27,4925.31,10,0.3,909.8
+2022-06-15,2022-06-22,First Class,Customer 113,Corporate,United States,Austin,Texas,20993,West,PID-1113,Office Supplies,Binders,Binders Model 49,3516.61,8,0.0,547.54
+2022-06-14,2022-06-17,Same Day,Customer 114,Consumer,United States,Tampa,Florida,61964,West,PID-1114,Office Supplies,Binders,Binders Model 33,1648.07,4,0.2,437.13
+2023-01-18,2023-01-20,Second Class,Customer 115,Consumer,United States,Miami,Florida,47601,Central,PID-1115,Furniture,Chairs,Chairs Model 31,2800.78,6,0.2,548.09
+2023-12-14,2023-12-21,Second Class,Customer 116,Home Office,United States,Austin,Texas,89807,South,PID-1116,Office Supplies,Art,Art Model 34,454.81,1,0.0,-32.76
+2023-03-10,2023-03-11,Same Day,Customer 117,Home Office,United States,New York City,New York,80261,Central,PID-1117,Furniture,Chairs,Chairs Model 2,886.07,4,0.3,-149.39
+2023-10-10,2023-10-15,Second Class,Customer 118,Home Office,United States,Austin,Texas,97584,West,PID-1118,Office Supplies,Paper,Paper Model 6,315.11,1,0.1,26.89
+2023-06-21,2023-06-24,First Class,Customer 119,Corporate,United States,San Diego,California,18855,East,PID-1119,Office Supplies,Paper,Paper Model 23,325.12,1,0.2,-23.79
+2022-09-04,2022-09-10,Same Day,Customer 120,Home Office,United States,San Diego,California,72722,Central,PID-1120,Furniture,Chairs,Chairs Model 41,1692.52,6,0.1,364.22
+2022-07-06,2022-07-13,Standard Class,Customer 121,Corporate,United States,Houston,Texas,77552,South,PID-1121,Furniture,Tables,Tables Model 26,164.11,4,0.1,39.86
+2023-07-11,2023-07-15,Standard Class,Customer 122,Corporate,United States,New York City,New York,62431,West,PID-1122,Office Supplies,Paper,Paper Model 48,435.58,1,0.2,-27.61
+2023-03-27,2023-03-31,Same Day,Customer 123,Consumer,United States,New York City,New York,66440,South,PID-1123,Technology,Accessories,Accessories Model 39,2782.01,6,0.2,558.0
+2022-07-04,2022-07-09,Same Day,Customer 124,Corporate,United States,Buffalo,New York,68606,East,PID-1124,Furniture,Tables,Tables Model 3,835.59,5,0.3,-97.49
+2022-12-28,2023-01-02,Second Class,Customer 125,Home Office,United States,Orlando,Florida,98878,East,PID-1125,Furniture,Bookcases,Bookcases Model 29,1360.73,7,0.1,376.1
+2022-02-05,2022-02-07,Standard Class,Customer 126,Corporate,United States,Los Angeles,California,68188,Central,PID-1126,Office Supplies,Paper,Paper Model 49,355.45,10,0.1,49.6
+2022-03-20,2022-03-25,Second Class,Customer 127,Corporate,United States,Austin,Texas,77861,Central,PID-1127,Office Supplies,Paper,Paper Model 25,699.07,5,0.0,-130.76
+2023-07-30,2023-07-31,Second Class,Customer 128,Consumer,United States,Buffalo,New York,69250,South,PID-1128,Furniture,Bookcases,Bookcases Model 12,1765.55,5,0.3,-176.4
+2024-01-01,2024-01-05,Second Class,Customer 129,Home Office,United States,San Diego,California,93584,Central,PID-1129,Technology,Accessories,Accessories Model 12,568.0,2,0.2,139.54
+2023-01-06,2023-01-11,Second Class,Customer 130,Home Office,United States,Houston,Texas,21300,West,PID-1130,Furniture,Chairs,Chairs Model 5,260.93,8,0.2,8.79
+2022-11-13,2022-11-17,Same Day,Customer 131,Corporate,United States,Tampa,Florida,99143,South,PID-1131,Office Supplies,Art,Art Model 34,160.31,2,0.2,19.42
+2022-12-19,2022-12-21,Standard Class,Customer 132,Home Office,United States,Houston,Texas,39552,South,PID-1132,Technology,Phones,Phones Model 23,537.38,2,0.2,-63.23
+2023-06-16,2023-06-19,First Class,Customer 133,Home Office,United States,San Francisco,California,94015,West,PID-1133,Technology,Copiers,Copiers Model 11,400.41,5,0.2,42.93
+2023-08-30,2023-09-04,Same Day,Customer 134,Home Office,United States,Houston,Texas,93753,Central,PID-1134,Technology,Phones,Phones Model 2,58.99,1,0.2,7.41
+2023-05-25,2023-05-31,Second Class,Customer 135,Corporate,United States,Rochester,New York,64476,Central,PID-1135,Office Supplies,Binders,Binders Model 31,1139.38,7,0.0,164.42
+2023-04-21,2023-04-23,Second Class,Customer 136,Corporate,United States,Rochester,New York,77499,West,PID-1136,Office Supplies,Art,Art Model 36,2234.5,6,0.2,642.84
+2022-04-19,2022-04-22,Same Day,Customer 137,Home Office,United States,Dallas,Texas,64805,East,PID-1137,Office Supplies,Paper,Paper Model 16,350.49,4,0.0,-19.24
+2022-06-13,2022-06-20,Standard Class,Customer 138,Corporate,United States,Rochester,New York,13037,Central,PID-1138,Furniture,Chairs,Chairs Model 6,3984.52,8,0.3,196.76
+2023-02-07,2023-02-12,Same Day,Customer 139,Corporate,United States,Miami,Florida,80345,West,PID-1139,Technology,Accessories,Accessories Model 1,44.26,1,0.3,4.37
+2022-04-21,2022-04-25,Standard Class,Customer 140,Consumer,United States,Dallas,Texas,60639,Central,PID-1140,Office Supplies,Paper,Paper Model 33,212.28,1,0.1,-3.98
+2023-04-07,2023-04-14,Standard Class,Customer 141,Consumer,United States,Rochester,New York,36090,East,PID-1141,Furniture,Chairs,Chairs Model 39,1393.95,7,0.2,110.0
+2023-06-06,2023-06-10,Second Class,Customer 142,Corporate,United States,Los Angeles,California,90356,East,PID-1142,Furniture,Bookcases,Bookcases Model 21,2435.42,6,0.3,-305.72
+2022-06-16,2022-06-20,First Class,Customer 143,Corporate,United States,Rochester,New York,53416,Central,PID-1143,Technology,Copiers,Copiers Model 44,2296.14,9,0.2,85.98
+2022-04-23,2022-04-27,Same Day,Customer 144,Consumer,United States,Rochester,New York,78712,East,PID-1144,Technology,Accessories,Accessories Model 41,2420.97,5,0.1,389.05
+2023-09-27,2023-10-04,Second Class,Customer 145,Corporate,United States,Miami,Florida,36724,West,PID-1145,Furniture,Bookcases,Bookcases Model 27,223.15,2,0.3,-9.63
+2023-05-29,2023-06-05,Same Day,Customer 146,Home Office,United States,Tampa,Florida,59391,East,PID-1146,Technology,Phones,Phones Model 21,1075.72,9,0.2,321.71
+2022-06-27,2022-07-01,Standard Class,Customer 147,Home Office,United States,Rochester,New York,49124,Central,PID-1147,Technology,Copiers,Copiers Model 15,1564.18,5,0.1,435.89
+2022-11-01,2022-11-08,Standard Class,Customer 148,Corporate,United States,Rochester,New York,25974,West,PID-1148,Technology,Copiers,Copiers Model 37,1377.44,8,0.2,110.53
+2023-11-24,2023-11-29,Same Day,Customer 149,Home Office,United States,Orlando,Florida,43612,Central,PID-1149,Furniture,Tables,Tables Model 48,158.06,1,0.0,-4.24
+2023-05-06,2023-05-08,Second Class,Customer 150,Home Office,United States,Austin,Texas,40518,Central,PID-1150,Technology,Copiers,Copiers Model 4,429.46,5,0.1,-33.83
+2022-04-13,2022-04-17,Same Day,Customer 151,Corporate,United States,Rochester,New York,95267,South,PID-1151,Furniture,Bookcases,Bookcases Model 13,67.46,3,0.1,0.23
+2022-10-22,2022-10-25,Second Class,Customer 152,Corporate,United States,Rochester,New York,33040,East,PID-1152,Furniture,Bookcases,Bookcases Model 3,1314.66,10,0.0,337.36
+2023-02-11,2023-02-18,Standard Class,Customer 153,Corporate,United States,Miami,Florida,69552,Central,PID-1153,Furniture,Chairs,Chairs Model 42,1463.11,5,0.0,386.59
+2023-07-11,2023-07-16,Second Class,Customer 154,Consumer,United States,Miami,Florida,54185,South,PID-1154,Office Supplies,Binders,Binders Model 19,357.46,2,0.3,44.38
+2023-08-05,2023-08-11,Second Class,Customer 155,Corporate,United States,Houston,Texas,52415,South,PID-1155,Office Supplies,Art,Art Model 16,369.8,6,0.0,-39.79
+2022-01-07,2022-01-10,Standard Class,Customer 156,Home Office,United States,Miami,Florida,40972,South,PID-1156,Office Supplies,Paper,Paper Model 4,1497.91,5,0.0,-103.69
+2023-11-15,2023-11-16,Standard Class,Customer 157,Corporate,United States,Orlando,Florida,90560,West,PID-1157,Office Supplies,Art,Art Model 15,4167.82,9,0.2,604.94
+2022-08-13,2022-08-15,Second Class,Customer 158,Consumer,United States,Miami,Florida,99173,South,PID-1158,Technology,Copiers,Copiers Model 49,1317.64,6,0.3,235.43
+2023-09-03,2023-09-10,Second Class,Customer 159,Home Office,United States,San Diego,California,80341,South,PID-1159,Technology,Copiers,Copiers Model 10,344.94,6,0.0,-58.34
+2022-06-18,2022-06-21,Same Day,Customer 160,Consumer,United States,Miami,Florida,77272,West,PID-1160,Technology,Copiers,Copiers Model 27,509.22,8,0.3,104.06
+2023-04-13,2023-04-18,First Class,Customer 161,Consumer,United States,San Diego,California,65534,South,PID-1161,Technology,Accessories,Accessories Model 23,210.06,1,0.0,36.32
+2023-12-19,2023-12-20,Same Day,Customer 162,Corporate,United States,Los Angeles,California,60132,South,PID-1162,Furniture,Tables,Tables Model 29,744.74,7,0.1,136.22
+2023-01-22,2023-01-26,Second Class,Customer 163,Consumer,United States,San Diego,California,12979,West,PID-1163,Technology,Accessories,Accessories Model 20,211.33,2,0.3,13.61
+2023-04-20,2023-04-26,First Class,Customer 164,Consumer,United States,Tampa,Florida,96533,South,PID-1164,Furniture,Chairs,Chairs Model 27,1489.25,8,0.2,-157.5
+2023-09-22,2023-09-29,First Class,Customer 165,Corporate,United States,Los Angeles,California,67535,West,PID-1165,Furniture,Chairs,Chairs Model 15,361.17,10,0.0,-28.04
+2023-07-07,2023-07-09,Second Class,Customer 166,Home Office,United States,Los Angeles,California,78321,Central,PID-1166,Furniture,Bookcases,Bookcases Model 15,1730.74,10,0.2,-141.14
+2023-02-28,2023-03-03,Same Day,Customer 167,Home Office,United States,New York City,New York,51777,West,PID-1167,Technology,Copiers,Copiers Model 45,2007.66,7,0.0,574.48
+2023-03-03,2023-03-07,Second Class,Customer 168,Corporate,United States,Dallas,Texas,17552,South,PID-1168,Furniture,Bookcases,Bookcases Model 36,1085.32,8,0.1,-53.87
+2023-02-27,2023-03-03,First Class,Customer 169,Home Office,United States,Dallas,Texas,34966,West,PID-1169,Office Supplies,Binders,Binders Model 4,1982.51,6,0.3,443.22
+2022-10-02,2022-10-06,Standard Class,Customer 170,Corporate,United States,Los Angeles,California,12009,West,PID-1170,Technology,Copiers,Copiers Model 14,1117.51,9,0.1,262.32
+2022-07-14,2022-07-20,Standard Class,Customer 171,Corporate,United States,San Diego,California,59894,South,PID-1171,Furniture,Bookcases,Bookcases Model 30,3578.09,10,0.3,921.58
+2023-07-01,2023-07-07,Standard Class,Customer 172,Consumer,United States,Buffalo,New York,58589,Central,PID-1172,Office Supplies,Art,Art Model 21,1949.46,8,0.3,352.49
+2023-02-28,2023-03-01,Second Class,Customer 173,Corporate,United States,Austin,Texas,40149,West,PID-1173,Furniture,Tables,Tables Model 25,4218.16,9,0.3,-221.05
+2023-08-07,2023-08-14,Same Day,Customer 174,Consumer,United States,Dallas,Texas,81058,Central,PID-1174,Office Supplies,Paper,Paper Model 42,1929.58,8,0.2,-222.61
+2022-03-02,2022-03-07,Second Class,Customer 175,Consumer,United States,Los Angeles,California,38668,East,PID-1175,Furniture,Tables,Tables Model 33,1273.26,3,0.1,-211.38
+2023-04-12,2023-04-15,Standard Class,Customer 176,Home Office,United States,San Diego,California,47576,South,PID-1176,Technology,Accessories,Accessories Model 2,23.17,1,0.3,-4.5
+2023-05-30,2023-06-06,Standard Class,Customer 177,Corporate,United States,Miami,Florida,20357,East,PID-1177,Furniture,Bookcases,Bookcases Model 24,407.0,3,0.2,84.5
+2023-02-20,2023-02-24,Same Day,Customer 178,Corporate,United States,Austin,Texas,82443,West,PID-1178,Office Supplies,Art,Art Model 31,667.59,2,0.0,-102.31
+2022-02-27,2022-03-05,First Class,Customer 179,Home Office,United States,San Diego,California,15577,West,PID-1179,Furniture,Tables,Tables Model 15,2306.89,7,0.2,191.31
+2022-08-05,2022-08-12,Standard Class,Customer 180,Consumer,United States,Orlando,Florida,37152,East,PID-1180,Furniture,Bookcases,Bookcases Model 38,2258.35,5,0.0,-249.15
+2022-05-28,2022-06-04,Standard Class,Customer 181,Corporate,United States,Miami,Florida,28343,Central,PID-1181,Furniture,Bookcases,Bookcases Model 45,1168.06,4,0.3,161.8
+2022-03-22,2022-03-27,Standard Class,Customer 182,Consumer,United States,New York City,New York,93115,East,PID-1182,Office Supplies,Binders,Binders Model 18,366.97,2,0.3,104.39
+2023-04-07,2023-04-11,Standard Class,Customer 183,Consumer,United States,Dallas,Texas,19634,South,PID-1183,Office Supplies,Binders,Binders Model 6,3371.23,10,0.0,627.33
+2022-10-02,2022-10-04,Standard Class,Customer 184,Corporate,United States,Tampa,Florida,57175,West,PID-1184,Technology,Accessories,Accessories Model 49,1158.82,6,0.0,-228.75
+2022-10-04,2022-10-05,First Class,Customer 185,Corporate,United States,Houston,Texas,82642,West,PID-1185,Office Supplies,Paper,Paper Model 6,2576.48,9,0.3,-382.23
+2023-09-04,2023-09-09,Second Class,Customer 186,Home Office,United States,Buffalo,New York,59903,East,PID-1186,Office Supplies,Paper,Paper Model 11,2758.01,7,0.1,237.13
+2022-05-23,2022-05-26,First Class,Customer 187,Corporate,United States,Buffalo,New York,42990,South,PID-1187,Furniture,Chairs,Chairs Model 16,685.93,3,0.3,-34.38
+2023-10-03,2023-10-07,Same Day,Customer 188,Corporate,United States,Dallas,Texas,67700,East,PID-1188,Furniture,Tables,Tables Model 22,475.44,1,0.2,104.98
+2023-03-17,2023-03-24,Standard Class,Customer 189,Corporate,United States,Dallas,Texas,92955,Central,PID-1189,Technology,Copiers,Copiers Model 32,999.7,4,0.1,282.2
+2023-08-13,2023-08-20,Second Class,Customer 190,Home Office,United States,Dallas,Texas,82102,South,PID-1190,Office Supplies,Paper,Paper Model 2,448.0,6,0.1,43.06
+2023-04-18,2023-04-24,Second Class,Customer 191,Corporate,United States,Dallas,Texas,96332,Central,PID-1191,Technology,Phones,Phones Model 10,2401.2,7,0.1,280.14
+2023-03-10,2023-03-17,Standard Class,Customer 192,Home Office,United States,Miami,Florida,80373,South,PID-1192,Technology,Accessories,Accessories Model 39,2123.86,10,0.3,152.54
+2023-10-16,2023-10-17,Standard Class,Customer 193,Corporate,United States,Los Angeles,California,23886,Central,PID-1193,Furniture,Bookcases,Bookcases Model 1,412.62,10,0.3,116.94
+2022-04-11,2022-04-14,First Class,Customer 194,Corporate,United States,Austin,Texas,23703,West,PID-1194,Office Supplies,Paper,Paper Model 19,1695.89,7,0.1,-46.66
+2023-03-02,2023-03-03,Standard Class,Customer 195,Corporate,United States,San Diego,California,22795,West,PID-1195,Office Supplies,Paper,Paper Model 29,1431.36,6,0.1,86.68
+2023-12-15,2023-12-19,Second Class,Customer 196,Home Office,United States,New York City,New York,41970,Central,PID-1196,Furniture,Bookcases,Bookcases Model 34,61.68,2,0.2,7.65
+2022-06-28,2022-07-03,Same Day,Customer 197,Corporate,United States,Dallas,Texas,13826,South,PID-1197,Office Supplies,Binders,Binders Model 48,2255.99,7,0.1,271.26
+2023-09-21,2023-09-23,Second Class,Customer 198,Corporate,United States,Tampa,Florida,52727,South,PID-1198,Office Supplies,Binders,Binders Model 13,475.11,4,0.0,42.13
+2023-04-14,2023-04-15,Standard Class,Customer 199,Corporate,United States,Rochester,New York,70012,South,PID-1199,Technology,Copiers,Copiers Model 40,1839.28,6,0.3,171.98
+2022-06-26,2022-07-03,Standard Class,Customer 200,Home Office,United States,Rochester,New York,28528,East,PID-1200,Technology,Phones,Phones Model 33,459.44,6,0.2,-65.02
+2023-02-02,2023-02-06,Same Day,Customer 201,Corporate,United States,Austin,Texas,28388,South,PID-1201,Office Supplies,Binders,Binders Model 12,2600.33,8,0.1,201.41
+2022-11-19,2022-11-26,Same Day,Customer 202,Corporate,United States,Tampa,Florida,99744,East,PID-1202,Office Supplies,Binders,Binders Model 32,684.29,8,0.3,192.91
+2023-03-02,2023-03-08,Standard Class,Customer 203,Consumer,United States,Orlando,Florida,80465,West,PID-1203,Furniture,Bookcases,Bookcases Model 19,402.02,1,0.1,-21.69
+2022-06-22,2022-06-29,Standard Class,Customer 204,Home Office,United States,Tampa,Florida,15453,South,PID-1204,Technology,Copiers,Copiers Model 49,589.81,2,0.2,110.62
+2023-03-28,2023-04-02,Standard Class,Customer 205,Consumer,United States,Dallas,Texas,67549,East,PID-1205,Technology,Copiers,Copiers Model 8,651.6,4,0.0,16.2
+2022-08-31,2022-09-02,Standard Class,Customer 206,Home Office,United States,Rochester,New York,46842,South,PID-1206,Furniture,Bookcases,Bookcases Model 39,1190.18,3,0.1,241.27
+2023-07-06,2023-07-08,Same Day,Customer 207,Consumer,United States,Rochester,New York,46349,Central,PID-1207,Office Supplies,Art,Art Model 42,2385.75,5,0.0,-315.41
+2022-05-10,2022-05-16,Standard Class,Customer 208,Home Office,United States,Houston,Texas,64293,West,PID-1208,Technology,Accessories,Accessories Model 25,1542.03,4,0.3,68.97
+2023-04-08,2023-04-09,First Class,Customer 209,Home Office,United States,San Francisco,California,70089,Central,PID-1209,Technology,Accessories,Accessories Model 41,3808.98,8,0.2,346.53
+2023-11-12,2023-11-18,Standard Class,Customer 210,Home Office,United States,New York City,New York,85750,South,PID-1210,Furniture,Tables,Tables Model 9,1029.85,4,0.2,220.56
+2023-08-03,2023-08-10,First Class,Customer 211,Corporate,United States,Orlando,Florida,36518,East,PID-1211,Furniture,Chairs,Chairs Model 45,222.52,8,0.1,4.59
+2022-05-16,2022-05-22,Second Class,Customer 212,Consumer,United States,New York City,New York,61949,Central,PID-1212,Furniture,Bookcases,Bookcases Model 41,841.12,6,0.2,111.24
+2022-11-09,2022-11-15,Second Class,Customer 213,Home Office,United States,Dallas,Texas,99126,East,PID-1213,Technology,Phones,Phones Model 29,122.44,1,0.0,-16.36
+2022-01-10,2022-01-11,First Class,Customer 214,Consumer,United States,New York City,New York,51071,South,PID-1214,Technology,Phones,Phones Model 24,431.98,8,0.3,-67.1
+2022-11-03,2022-11-05,Second Class,Customer 215,Home Office,United States,Miami,Florida,29840,West,PID-1215,Furniture,Bookcases,Bookcases Model 27,240.68,10,0.1,4.83
+2023-09-23,2023-09-29,Same Day,Customer 216,Corporate,United States,Miami,Florida,28327,East,PID-1216,Furniture,Chairs,Chairs Model 16,605.99,2,0.3,-14.68
+2022-10-11,2022-10-17,Standard Class,Customer 217,Home Office,United States,Los Angeles,California,17152,Central,PID-1217,Technology,Phones,Phones Model 16,593.07,5,0.1,103.15
+2023-05-22,2023-05-26,Standard Class,Customer 218,Consumer,United States,Los Angeles,California,60703,South,PID-1218,Technology,Copiers,Copiers Model 37,547.16,2,0.0,160.56
+2023-03-07,2023-03-10,First Class,Customer 219,Corporate,United States,Dallas,Texas,76402,East,PID-1219,Furniture,Bookcases,Bookcases Model 19,53.24,2,0.1,-9.59
+2023-10-06,2023-10-12,Standard Class,Customer 220,Consumer,United States,Orlando,Florida,77017,South,PID-1220,Furniture,Bookcases,Bookcases Model 14,2502.67,9,0.1,-153.33
+2022-06-09,2022-06-14,First Class,Customer 221,Corporate,United States,Buffalo,New York,25202,East,PID-1221,Office Supplies,Art,Art Model 30,2592.66,7,0.1,-443.47
+2023-09-19,2023-09-24,Standard Class,Customer 222,Home Office,United States,San Francisco,California,77793,West,PID-1222,Furniture,Chairs,Chairs Model 47,1070.16,3,0.1,51.59
+2022-09-23,2022-09-25,First Class,Customer 223,Corporate,United States,New York City,New York,85582,Central,PID-1223,Technology,Phones,Phones Model 41,180.81,1,0.3,-11.57
+2022-03-20,2022-03-24,First Class,Customer 224,Home Office,United States,Tampa,Florida,98358,Central,PID-1224,Furniture,Tables,Tables Model 47,1001.03,10,0.1,-72.52
+2022-04-29,2022-05-01,First Class,Customer 225,Home Office,United States,Los Angeles,California,95944,East,PID-1225,Furniture,Chairs,Chairs Model 27,1557.67,8,0.1,-172.15
+2022-08-18,2022-08-21,First Class,Customer 226,Corporate,United States,Dallas,Texas,19034,Central,PID-1226,Office Supplies,Binders,Binders Model 30,1989.48,10,0.0,-219.5
+2022-10-17,2022-10-24,Standard Class,Customer 227,Home Office,United States,Buffalo,New York,91620,East,PID-1227,Technology,Accessories,Accessories Model 16,197.08,1,0.2,16.14
+2023-04-21,2023-04-24,First Class,Customer 228,Corporate,United States,Miami,Florida,10191,West,PID-1228,Furniture,Chairs,Chairs Model 49,220.34,7,0.2,25.99
+2023-11-05,2023-11-09,Second Class,Customer 229,Home Office,United States,New York City,New York,46677,West,PID-1229,Technology,Phones,Phones Model 6,1793.22,7,0.0,513.36
+2022-02-14,2022-02-16,Same Day,Customer 230,Consumer,United States,Tampa,Florida,87580,Central,PID-1230,Office Supplies,Art,Art Model 37,597.54,2,0.1,70.87
+2022-03-05,2022-03-09,Standard Class,Customer 231,Consumer,United States,Houston,Texas,19789,Central,PID-1231,Office Supplies,Paper,Paper Model 13,2494.44,7,0.2,-102.2
+2022-05-20,2022-05-27,Second Class,Customer 232,Corporate,United States,Los Angeles,California,50410,East,PID-1232,Furniture,Tables,Tables Model 30,1365.89,8,0.0,92.83
+2022-09-29,2022-10-06,Second Class,Customer 233,Corporate,United States,Los Angeles,California,61936,West,PID-1233,Technology,Accessories,Accessories Model 33,393.58,10,0.2,-49.53
+2022-02-20,2022-02-26,First Class,Customer 234,Consumer,United States,Buffalo,New York,25919,West,PID-1234,Furniture,Tables,Tables Model 1,2294.86,8,0.1,-350.28
+2022-03-05,2022-03-12,First Class,Customer 235,Consumer,United States,Houston,Texas,18450,West,PID-1235,Office Supplies,Paper,Paper Model 13,599.03,2,0.2,154.98
+2023-10-24,2023-10-28,Same Day,Customer 236,Corporate,United States,Houston,Texas,13864,Central,PID-1236,Furniture,Chairs,Chairs Model 25,354.45,8,0.3,74.73
+2023-12-01,2023-12-05,Second Class,Customer 237,Home Office,United States,Dallas,Texas,48680,West,PID-1237,Furniture,Tables,Tables Model 32,1170.43,5,0.1,-213.81
+2023-02-26,2023-03-03,First Class,Customer 238,Corporate,United States,Miami,Florida,57069,East,PID-1238,Office Supplies,Paper,Paper Model 31,663.7,3,0.1,76.58
+2023-07-12,2023-07-19,Standard Class,Customer 239,Consumer,United States,Orlando,Florida,71824,Central,PID-1239,Office Supplies,Paper,Paper Model 34,97.53,3,0.1,-18.08
+2023-01-02,2023-01-09,Second Class,Customer 240,Home Office,United States,Houston,Texas,60911,East,PID-1240,Furniture,Bookcases,Bookcases Model 23,591.73,4,0.0,107.71
+2022-06-27,2022-06-29,Standard Class,Customer 241,Home Office,United States,Austin,Texas,83873,Central,PID-1241,Technology,Copiers,Copiers Model 10,2752.26,6,0.0,417.59
+2023-07-31,2023-08-02,First Class,Customer 242,Home Office,United States,Tampa,Florida,72650,Central,PID-1242,Furniture,Tables,Tables Model 1,63.32,1,0.1,6.38
+2022-12-06,2022-12-11,Second Class,Customer 243,Consumer,United States,Houston,Texas,78982,Central,PID-1243,Technology,Phones,Phones Model 24,291.52,6,0.1,27.2
+2022-03-16,2022-03-19,Same Day,Customer 244,Home Office,United States,Tampa,Florida,73858,East,PID-1244,Office Supplies,Paper,Paper Model 42,512.98,6,0.1,85.24
+2022-11-21,2022-11-23,Same Day,Customer 245,Home Office,United States,New York City,New York,14244,West,PID-1245,Office Supplies,Paper,Paper Model 12,405.64,5,0.0,111.31
+2023-09-09,2023-09-12,Standard Class,Customer 246,Consumer,United States,Austin,Texas,93386,East,PID-1246,Office Supplies,Binders,Binders Model 6,2266.59,6,0.1,-60.28
+2023-12-27,2024-01-02,First Class,Customer 247,Home Office,United States,Buffalo,New York,10167,East,PID-1247,Office Supplies,Binders,Binders Model 4,1410.9,4,0.2,-101.12
+2023-01-31,2023-02-04,Second Class,Customer 248,Consumer,United States,Miami,Florida,69151,South,PID-1248,Office Supplies,Paper,Paper Model 5,1692.55,6,0.0,362.89
+2022-02-04,2022-02-07,First Class,Customer 249,Home Office,United States,San Francisco,California,22203,Central,PID-1249,Furniture,Chairs,Chairs Model 22,609.9,6,0.3,-72.91
+2023-09-01,2023-09-06,First Class,Customer 250,Corporate,United States,Tampa,Florida,36941,East,PID-1250,Office Supplies,Art,Art Model 13,934.54,3,0.3,-113.5
+2023-02-24,2023-03-02,Standard Class,Customer 251,Consumer,United States,Rochester,New York,66047,Central,PID-1251,Office Supplies,Binders,Binders Model 6,87.65,2,0.3,-10.8
+2022-10-29,2022-11-05,First Class,Customer 252,Corporate,United States,Miami,Florida,62096,East,PID-1252,Furniture,Chairs,Chairs Model 31,978.99,3,0.0,36.01
+2023-05-16,2023-05-22,Same Day,Customer 253,Corporate,United States,New York City,New York,44524,South,PID-1253,Furniture,Tables,Tables Model 15,1381.19,7,0.3,-245.43
+2022-10-03,2022-10-08,Second Class,Customer 254,Home Office,United States,Los Angeles,California,17993,East,PID-1254,Furniture,Bookcases,Bookcases Model 25,2447.56,6,0.3,698.42
+2023-06-20,2023-06-24,Second Class,Customer 255,Consumer,United States,Tampa,Florida,68856,West,PID-1255,Office Supplies,Paper,Paper Model 12,419.01,2,0.0,21.39
+2022-06-21,2022-06-23,Standard Class,Customer 256,Corporate,United States,Houston,Texas,18783,East,PID-1256,Office Supplies,Binders,Binders Model 6,818.45,7,0.1,177.65
+2023-02-02,2023-02-07,Same Day,Customer 257,Consumer,United States,Tampa,Florida,64321,Central,PID-1257,Office Supplies,Art,Art Model 10,3681.9,8,0.0,711.62
+2022-06-01,2022-06-06,Same Day,Customer 258,Home Office,United States,Los Angeles,California,89817,East,PID-1258,Office Supplies,Art,Art Model 31,2648.33,6,0.2,-22.45
+2022-02-08,2022-02-10,First Class,Customer 259,Home Office,United States,Buffalo,New York,72287,West,PID-1259,Technology,Copiers,Copiers Model 18,270.31,7,0.2,39.26
+2023-01-17,2023-01-18,Same Day,Customer 260,Corporate,United States,Buffalo,New York,45313,Central,PID-1260,Office Supplies,Paper,Paper Model 47,973.6,2,0.1,-129.3
+2023-03-03,2023-03-08,Second Class,Customer 261,Consumer,United States,Los Angeles,California,50779,South,PID-1261,Furniture,Tables,Tables Model 46,3076.45,8,0.2,647.62
+2023-06-03,2023-06-07,First Class,Customer 262,Corporate,United States,Austin,Texas,36097,East,PID-1262,Furniture,Chairs,Chairs Model 18,1687.0,4,0.1,-309.5
+2023-01-13,2023-01-20,Second Class,Customer 263,Corporate,United States,Tampa,Florida,86923,South,PID-1263,Technology,Phones,Phones Model 36,136.13,1,0.3,13.21
+2022-12-25,2022-12-28,Second Class,Customer 264,Home Office,United States,Dallas,Texas,37096,East,PID-1264,Office Supplies,Binders,Binders Model 18,306.83,7,0.1,70.13
+2023-10-30,2023-11-03,Standard Class,Customer 265,Home Office,United States,San Diego,California,94245,East,PID-1265,Office Supplies,Binders,Binders Model 18,925.64,3,0.0,-81.56
+2023-03-10,2023-03-14,First Class,Customer 266,Home Office,United States,Buffalo,New York,96816,Central,PID-1266,Furniture,Tables,Tables Model 24,1725.27,5,0.3,159.15
+2023-07-29,2023-08-04,Standard Class,Customer 267,Home Office,United States,Buffalo,New York,95389,East,PID-1267,Office Supplies,Binders,Binders Model 20,2966.48,6,0.2,684.5
+2022-07-12,2022-07-14,Standard Class,Customer 268,Corporate,United States,Houston,Texas,63031,South,PID-1268,Technology,Accessories,Accessories Model 25,1098.65,3,0.3,328.2
+2022-02-06,2022-02-11,Second Class,Customer 269,Home Office,United States,Dallas,Texas,83170,West,PID-1269,Technology,Copiers,Copiers Model 12,3641.06,8,0.2,195.37
+2022-10-28,2022-10-29,Second Class,Customer 270,Corporate,United States,Miami,Florida,39272,Central,PID-1270,Technology,Copiers,Copiers Model 48,1423.57,3,0.2,181.1
+2022-11-11,2022-11-15,First Class,Customer 271,Corporate,United States,Buffalo,New York,35499,Central,PID-1271,Technology,Accessories,Accessories Model 33,3428.66,8,0.3,-593.71
+2022-05-03,2022-05-10,Same Day,Customer 272,Consumer,United States,Tampa,Florida,51469,Central,PID-1272,Office Supplies,Binders,Binders Model 46,257.81,3,0.1,-7.39
+2022-07-04,2022-07-11,Second Class,Customer 273,Consumer,United States,San Francisco,California,85534,Central,PID-1273,Technology,Phones,Phones Model 49,1947.36,6,0.0,50.68
+2022-06-12,2022-06-16,First Class,Customer 274,Home Office,United States,Los Angeles,California,36137,South,PID-1274,Technology,Accessories,Accessories Model 47,1581.53,7,0.3,-13.19
+2023-01-18,2023-01-19,Standard Class,Customer 275,Corporate,United States,Rochester,New York,26899,West,PID-1275,Furniture,Bookcases,Bookcases Model 7,320.81,1,0.1,-27.87
+2023-01-28,2023-02-02,Second Class,Customer 276,Corporate,United States,New York City,New York,74248,East,PID-1276,Furniture,Tables,Tables Model 23,1194.22,5,0.2,20.1
+2022-07-12,2022-07-14,Second Class,Customer 277,Consumer,United States,Miami,Florida,58049,West,PID-1277,Furniture,Bookcases,Bookcases Model 46,364.11,3,0.0,34.53
+2023-10-29,2023-11-05,First Class,Customer 278,Consumer,United States,San Francisco,California,25176,Central,PID-1278,Technology,Copiers,Copiers Model 27,305.08,1,0.0,39.96
+2023-03-31,2023-04-04,First Class,Customer 279,Home Office,United States,San Diego,California,78197,Central,PID-1279,Office Supplies,Art,Art Model 18,355.91,3,0.0,-17.6
+2023-09-30,2023-10-05,Same Day,Customer 280,Consumer,United States,Dallas,Texas,89823,East,PID-1280,Technology,Copiers,Copiers Model 13,765.13,10,0.0,147.2
+2022-09-27,2022-10-04,Same Day,Customer 281,Corporate,United States,Dallas,Texas,40737,South,PID-1281,Office Supplies,Binders,Binders Model 1,283.11,1,0.1,40.8
+2022-01-14,2022-01-20,Second Class,Customer 282,Corporate,United States,Los Angeles,California,48800,South,PID-1282,Furniture,Chairs,Chairs Model 17,504.21,9,0.0,127.26
+2023-04-21,2023-04-22,First Class,Customer 283,Consumer,United States,Los Angeles,California,28139,East,PID-1283,Office Supplies,Paper,Paper Model 43,1346.87,6,0.0,-205.4
+2023-10-25,2023-10-27,Same Day,Customer 284,Corporate,United States,Buffalo,New York,69839,South,PID-1284,Technology,Accessories,Accessories Model 18,397.72,2,0.2,-43.18
+2023-01-30,2023-02-05,Same Day,Customer 285,Home Office,United States,Orlando,Florida,98918,West,PID-1285,Furniture,Chairs,Chairs Model 29,491.15,1,0.1,-72.76
+2022-07-05,2022-07-10,Same Day,Customer 286,Corporate,United States,Orlando,Florida,16025,East,PID-1286,Technology,Copiers,Copiers Model 5,755.63,3,0.3,-108.46
+2022-09-25,2022-10-01,Second Class,Customer 287,Corporate,United States,New York City,New York,55318,West,PID-1287,Technology,Accessories,Accessories Model 43,2439.81,9,0.0,40.07
+2023-11-24,2023-11-30,Second Class,Customer 288,Consumer,United States,Miami,Florida,74441,East,PID-1288,Furniture,Bookcases,Bookcases Model 21,788.02,3,0.3,178.04
+2022-09-04,2022-09-07,Same Day,Customer 289,Home Office,United States,New York City,New York,68733,West,PID-1289,Technology,Copiers,Copiers Model 6,1495.01,7,0.1,-240.08
+2023-05-26,2023-05-30,First Class,Customer 290,Consumer,United States,New York City,New York,89194,South,PID-1290,Technology,Copiers,Copiers Model 40,69.27,1,0.3,-12.61
+2023-10-15,2023-10-18,Same Day,Customer 291,Home Office,United States,Austin,Texas,96136,South,PID-1291,Office Supplies,Paper,Paper Model 24,411.96,1,0.3,-14.01
+2023-04-09,2023-04-10,Standard Class,Customer 292,Home Office,United States,San Diego,California,23935,West,PID-1292,Furniture,Tables,Tables Model 3,2510.07,6,0.2,185.36
+2022-06-18,2022-06-22,Same Day,Customer 293,Consumer,United States,Austin,Texas,69905,South,PID-1293,Furniture,Tables,Tables Model 13,1140.42,10,0.0,302.33
+2022-12-13,2022-12-14,First Class,Customer 294,Home Office,United States,Miami,Florida,16366,East,PID-1294,Office Supplies,Paper,Paper Model 36,4789.71,10,0.1,1350.35
+2023-03-20,2023-03-27,Standard Class,Customer 295,Home Office,United States,Tampa,Florida,60418,West,PID-1295,Technology,Copiers,Copiers Model 27,1111.91,3,0.1,-164.81
+2023-09-16,2023-09-22,Standard Class,Customer 296,Home Office,United States,Dallas,Texas,81802,South,PID-1296,Office Supplies,Paper,Paper Model 21,3250.42,8,0.1,20.71
+2023-12-30,2024-01-05,Second Class,Customer 297,Home Office,United States,Houston,Texas,81105,West,PID-1297,Technology,Copiers,Copiers Model 45,1747.87,5,0.1,508.05
+2023-10-15,2023-10-18,Same Day,Customer 298,Consumer,United States,San Francisco,California,78515,South,PID-1298,Technology,Copiers,Copiers Model 7,2405.46,7,0.2,574.28
+2022-01-26,2022-01-30,First Class,Customer 299,Home Office,United States,Houston,Texas,48684,East,PID-1299,Furniture,Tables,Tables Model 14,1476.29,3,0.2,-187.17
+2023-07-09,2023-07-10,Standard Class,Customer 300,Home Office,United States,Buffalo,New York,97096,East,PID-1300,Technology,Copiers,Copiers Model 4,3916.12,9,0.3,-318.0
+2023-01-26,2023-01-30,Same Day,Customer 301,Consumer,United States,Tampa,Florida,93071,Central,PID-1301,Technology,Phones,Phones Model 46,376.96,1,0.1,41.57
+2023-12-28,2024-01-03,Second Class,Customer 302,Home Office,United States,Rochester,New York,77350,West,PID-1302,Technology,Phones,Phones Model 8,1177.16,5,0.0,-125.38
+2023-01-22,2023-01-23,Second Class,Customer 303,Consumer,United States,Orlando,Florida,30146,Central,PID-1303,Furniture,Chairs,Chairs Model 21,4260.87,10,0.0,-147.93
+2023-09-04,2023-09-05,Second Class,Customer 304,Corporate,United States,Buffalo,New York,81182,Central,PID-1304,Furniture,Bookcases,Bookcases Model 35,1633.14,6,0.1,98.48
+2023-02-18,2023-02-19,Same Day,Customer 305,Home Office,United States,New York City,New York,95105,West,PID-1305,Technology,Accessories,Accessories Model 1,1159.1,6,0.1,318.93
+2022-04-28,2022-05-04,Standard Class,Customer 306,Corporate,United States,Buffalo,New York,24860,West,PID-1306,Technology,Copiers,Copiers Model 25,1370.37,10,0.0,193.6
+2022-09-20,2022-09-25,Second Class,Customer 307,Corporate,United States,New York City,New York,77357,Central,PID-1307,Technology,Copiers,Copiers Model 6,2029.33,8,0.2,505.59
+2022-04-09,2022-04-11,Second Class,Customer 308,Home Office,United States,San Diego,California,67047,East,PID-1308,Furniture,Bookcases,Bookcases Model 42,1740.71,4,0.3,379.18
+2022-03-15,2022-03-21,Standard Class,Customer 309,Home Office,United States,Houston,Texas,19232,South,PID-1309,Technology,Accessories,Accessories Model 37,62.01,1,0.0,-6.88
+2022-08-22,2022-08-25,First Class,Customer 310,Home Office,United States,Orlando,Florida,91048,South,PID-1310,Technology,Accessories,Accessories Model 5,1203.12,7,0.3,164.41
+2023-08-23,2023-08-24,Same Day,Customer 311,Corporate,United States,San Francisco,California,61788,East,PID-1311,Office Supplies,Art,Art Model 43,1555.76,5,0.2,284.14
+2022-02-01,2022-02-05,Second Class,Customer 312,Corporate,United States,Austin,Texas,98773,West,PID-1312,Furniture,Bookcases,Bookcases Model 47,2817.15,7,0.2,788.99
+2023-10-26,2023-10-29,First Class,Customer 313,Corporate,United States,San Diego,California,37532,West,PID-1313,Furniture,Chairs,Chairs Model 48,294.9,1,0.3,20.22
+2022-12-19,2022-12-21,Second Class,Customer 314,Home Office,United States,Tampa,Florida,84356,West,PID-1314,Furniture,Chairs,Chairs Model 4,1264.42,4,0.2,-130.03
+2023-07-17,2023-07-21,Standard Class,Customer 315,Consumer,United States,San Francisco,California,97988,East,PID-1315,Office Supplies,Binders,Binders Model 42,1473.13,4,0.3,406.24
+2022-08-29,2022-08-30,Second Class,Customer 316,Home Office,United States,Rochester,New York,84299,East,PID-1316,Furniture,Tables,Tables Model 24,1890.48,8,0.2,277.39
+2022-11-20,2022-11-24,Standard Class,Customer 317,Corporate,United States,Houston,Texas,70666,Central,PID-1317,Furniture,Chairs,Chairs Model 29,1069.64,7,0.2,-142.1
+2023-01-03,2023-01-10,Second Class,Customer 318,Home Office,United States,Buffalo,New York,35746,East,PID-1318,Furniture,Bookcases,Bookcases Model 17,593.47,10,0.2,136.12
+2023-10-04,2023-10-05,Standard Class,Customer 319,Home Office,United States,Los Angeles,California,80736,East,PID-1319,Technology,Copiers,Copiers Model 31,2724.51,7,0.1,689.71
+2023-11-01,2023-11-08,First Class,Customer 320,Home Office,United States,Dallas,Texas,41310,South,PID-1320,Furniture,Bookcases,Bookcases Model 40,421.32,5,0.0,-0.68
+2023-12-02,2023-12-04,Same Day,Customer 321,Corporate,United States,Dallas,Texas,15297,West,PID-1321,Furniture,Bookcases,Bookcases Model 15,3365.18,10,0.1,565.22
+2023-05-15,2023-05-17,Same Day,Customer 322,Consumer,United States,San Francisco,California,15230,Central,PID-1322,Furniture,Chairs,Chairs Model 42,1074.34,4,0.2,-6.4
+2022-11-28,2022-11-29,First Class,Customer 323,Home Office,United States,Rochester,New York,42975,Central,PID-1323,Technology,Copiers,Copiers Model 25,1034.48,10,0.3,-17.95
+2022-08-17,2022-08-22,Second Class,Customer 324,Consumer,United States,Orlando,Florida,77441,Central,PID-1324,Office Supplies,Paper,Paper Model 42,231.67,10,0.1,4.62
+2022-10-15,2022-10-17,First Class,Customer 325,Corporate,United States,Houston,Texas,98503,West,PID-1325,Office Supplies,Art,Art Model 31,674.67,2,0.3,138.7
+2023-05-06,2023-05-08,First Class,Customer 326,Home Office,United States,Austin,Texas,29249,South,PID-1326,Furniture,Chairs,Chairs Model 4,81.38,1,0.1,-10.79
+2022-06-20,2022-06-23,Second Class,Customer 327,Corporate,United States,Austin,Texas,89498,South,PID-1327,Technology,Copiers,Copiers Model 31,441.68,1,0.2,120.86
+2023-05-09,2023-05-11,Standard Class,Customer 328,Corporate,United States,Dallas,Texas,88188,West,PID-1328,Technology,Phones,Phones Model 38,3366.31,10,0.2,-390.96
+2022-03-12,2022-03-14,First Class,Customer 329,Consumer,United States,Orlando,Florida,72373,West,PID-1329,Furniture,Chairs,Chairs Model 40,1083.61,4,0.3,231.09
+2023-09-07,2023-09-08,Same Day,Customer 330,Home Office,United States,Los Angeles,California,65139,South,PID-1330,Technology,Phones,Phones Model 24,2788.57,10,0.0,692.92
+2022-02-14,2022-02-20,Standard Class,Customer 331,Corporate,United States,Miami,Florida,40475,South,PID-1331,Office Supplies,Paper,Paper Model 6,4062.18,10,0.0,51.77
+2022-10-18,2022-10-23,Same Day,Customer 332,Home Office,United States,Orlando,Florida,36924,West,PID-1332,Furniture,Bookcases,Bookcases Model 45,297.43,1,0.0,17.81
+2022-11-20,2022-11-24,Standard Class,Customer 333,Home Office,United States,New York City,New York,62095,West,PID-1333,Office Supplies,Art,Art Model 49,1417.44,10,0.3,116.71
+2022-07-28,2022-08-01,Same Day,Customer 334,Home Office,United States,Miami,Florida,28096,Central,PID-1334,Technology,Copiers,Copiers Model 43,1134.51,8,0.2,100.77
+2022-05-02,2022-05-08,First Class,Customer 335,Consumer,United States,Dallas,Texas,61000,West,PID-1335,Furniture,Chairs,Chairs Model 41,1910.42,9,0.2,382.9
+2022-01-06,2022-01-13,First Class,Customer 336,Home Office,United States,Los Angeles,California,60374,South,PID-1336,Technology,Accessories,Accessories Model 26,101.52,2,0.1,-1.48
+2023-09-21,2023-09-27,Standard Class,Customer 337,Consumer,United States,Rochester,New York,14405,East,PID-1337,Furniture,Bookcases,Bookcases Model 39,1845.65,8,0.1,415.8
+2023-06-07,2023-06-12,First Class,Customer 338,Corporate,United States,Austin,Texas,62354,West,PID-1338,Technology,Phones,Phones Model 23,809.06,6,0.0,232.87
+2023-11-17,2023-11-21,Standard Class,Customer 339,Corporate,United States,Tampa,Florida,46242,West,PID-1339,Technology,Phones,Phones Model 15,922.41,2,0.2,150.42
+2023-09-13,2023-09-15,Standard Class,Customer 340,Consumer,United States,Orlando,Florida,77277,East,PID-1340,Office Supplies,Binders,Binders Model 17,1840.96,7,0.0,94.97
+2023-07-05,2023-07-12,Same Day,Customer 341,Home Office,United States,Rochester,New York,70387,South,PID-1341,Office Supplies,Art,Art Model 38,3116.67,8,0.2,874.6
+2022-01-29,2022-02-02,Same Day,Customer 342,Corporate,United States,San Francisco,California,77699,East,PID-1342,Office Supplies,Art,Art Model 35,1379.67,4,0.1,276.05
+2022-01-10,2022-01-16,Standard Class,Customer 343,Consumer,United States,New York City,New York,85197,Central,PID-1343,Furniture,Tables,Tables Model 18,338.96,6,0.1,12.97
+2022-07-07,2022-07-13,Second Class,Customer 344,Home Office,United States,Dallas,Texas,56665,West,PID-1344,Furniture,Bookcases,Bookcases Model 10,1755.67,4,0.1,-149.93
+2022-04-20,2022-04-21,Standard Class,Customer 345,Corporate,United States,San Diego,California,85303,South,PID-1345,Technology,Phones,Phones Model 18,4318.53,9,0.3,-62.19
+2023-05-18,2023-05-20,First Class,Customer 346,Home Office,United States,Buffalo,New York,55519,West,PID-1346,Technology,Phones,Phones Model 26,272.35,1,0.3,10.67
+2023-12-04,2023-12-11,Second Class,Customer 347,Corporate,United States,Dallas,Texas,86153,East,PID-1347,Technology,Copiers,Copiers Model 7,1372.1,8,0.0,-266.31
+2022-11-30,2022-12-03,Same Day,Customer 348,Corporate,United States,New York City,New York,37594,Central,PID-1348,Furniture,Tables,Tables Model 27,3840.74,8,0.2,-65.44
+2023-12-19,2023-12-26,Standard Class,Customer 349,Consumer,United States,Buffalo,New York,82789,South,PID-1349,Office Supplies,Paper,Paper Model 28,882.83,3,0.1,182.83
+2023-01-26,2023-01-28,Standard Class,Customer 350,Corporate,United States,Austin,Texas,49326,West,PID-1350,Office Supplies,Binders,Binders Model 17,666.99,3,0.1,198.62
+2023-07-30,2023-08-06,First Class,Customer 351,Corporate,United States,San Francisco,California,53864,East,PID-1351,Technology,Phones,Phones Model 17,123.42,1,0.2,4.72
+2023-01-05,2023-01-08,Second Class,Customer 352,Corporate,United States,Buffalo,New York,56544,East,PID-1352,Office Supplies,Binders,Binders Model 21,2618.02,6,0.1,231.5
+2023-11-21,2023-11-26,Standard Class,Customer 353,Corporate,United States,Tampa,Florida,92742,South,PID-1353,Furniture,Tables,Tables Model 40,1575.31,10,0.1,368.83
+2023-08-09,2023-08-13,Same Day,Customer 354,Corporate,United States,Los Angeles,California,68313,West,PID-1354,Office Supplies,Binders,Binders Model 50,1032.61,6,0.2,160.28
+2023-01-07,2023-01-13,First Class,Customer 355,Consumer,United States,Orlando,Florida,31877,West,PID-1355,Furniture,Chairs,Chairs Model 26,1107.99,3,0.2,299.4
+2022-04-16,2022-04-17,Second Class,Customer 356,Consumer,United States,San Francisco,California,95830,East,PID-1356,Furniture,Tables,Tables Model 25,3484.78,9,0.0,-515.87
+2022-11-13,2022-11-15,Standard Class,Customer 357,Corporate,United States,Austin,Texas,72410,Central,PID-1357,Office Supplies,Art,Art Model 30,249.04,3,0.1,-46.25
+2023-07-08,2023-07-11,Standard Class,Customer 358,Corporate,United States,Miami,Florida,73131,West,PID-1358,Technology,Copiers,Copiers Model 35,2583.22,8,0.3,159.46
+2022-08-21,2022-08-28,Second Class,Customer 359,Corporate,United States,San Francisco,California,47586,Central,PID-1359,Office Supplies,Paper,Paper Model 31,473.72,5,0.0,-94.72
+2023-07-02,2023-07-03,Second Class,Customer 360,Corporate,United States,Orlando,Florida,83472,Central,PID-1360,Furniture,Tables,Tables Model 28,1532.81,5,0.0,113.59
+2023-02-09,2023-02-11,Standard Class,Customer 361,Corporate,United States,Austin,Texas,94994,South,PID-1361,Office Supplies,Binders,Binders Model 48,290.1,5,0.1,16.91
+2023-06-29,2023-07-06,Standard Class,Customer 362,Home Office,United States,Buffalo,New York,91625,West,PID-1362,Furniture,Chairs,Chairs Model 32,477.02,3,0.3,51.93
+2022-07-12,2022-07-15,Same Day,Customer 363,Home Office,United States,Los Angeles,California,11075,East,PID-1363,Technology,Phones,Phones Model 15,1460.16,3,0.2,-95.5
+2022-04-03,2022-04-05,Same Day,Customer 364,Home Office,United States,San Francisco,California,14159,West,PID-1364,Office Supplies,Paper,Paper Model 22,1985.74,5,0.3,593.7
+2022-03-24,2022-03-31,Standard Class,Customer 365,Corporate,United States,Houston,Texas,11653,Central,PID-1365,Office Supplies,Binders,Binders Model 8,2211.03,9,0.1,548.0
+2022-09-12,2022-09-16,Standard Class,Customer 366,Corporate,United States,Miami,Florida,30789,East,PID-1366,Furniture,Tables,Tables Model 41,540.29,2,0.1,19.67
+2022-02-13,2022-02-19,Second Class,Customer 367,Consumer,United States,San Francisco,California,40928,South,PID-1367,Technology,Accessories,Accessories Model 41,772.02,4,0.0,178.98
+2023-03-21,2023-03-24,Same Day,Customer 368,Home Office,United States,Los Angeles,California,88146,Central,PID-1368,Technology,Phones,Phones Model 10,2791.52,7,0.0,793.96
+2023-01-16,2023-01-23,Second Class,Customer 369,Home Office,United States,Los Angeles,California,80300,West,PID-1369,Office Supplies,Binders,Binders Model 7,1824.43,10,0.0,-310.36
+2022-05-09,2022-05-13,Second Class,Customer 370,Corporate,United States,Dallas,Texas,15175,Central,PID-1370,Office Supplies,Art,Art Model 32,121.0,4,0.3,-2.53
+2023-12-25,2023-12-29,Standard Class,Customer 371,Home Office,United States,Rochester,New York,82682,South,PID-1371,Furniture,Bookcases,Bookcases Model 11,842.81,3,0.2,140.08
+2022-03-12,2022-03-17,First Class,Customer 372,Home Office,United States,Dallas,Texas,57720,Central,PID-1372,Office Supplies,Art,Art Model 50,1427.75,6,0.3,238.19
+2023-09-28,2023-09-30,Second Class,Customer 373,Home Office,United States,Rochester,New York,47110,East,PID-1373,Technology,Copiers,Copiers Model 21,777.96,7,0.3,142.26
+2023-02-24,2023-03-02,First Class,Customer 374,Consumer,United States,New York City,New York,24031,East,PID-1374,Technology,Copiers,Copiers Model 32,82.03,2,0.1,-9.08
+2022-07-16,2022-07-17,Second Class,Customer 375,Home Office,United States,San Diego,California,19289,South,PID-1375,Technology,Accessories,Accessories Model 1,2875.55,9,0.2,-504.54
+2022-08-02,2022-08-08,First Class,Customer 376,Home Office,United States,Miami,Florida,44840,South,PID-1376,Technology,Phones,Phones Model 34,1727.1,6,0.3,364.44
+2022-02-11,2022-02-17,Second Class,Customer 377,Consumer,United States,San Francisco,California,78969,East,PID-1377,Furniture,Bookcases,Bookcases Model 43,137.18,2,0.1,9.03
+2022-09-12,2022-09-17,Same Day,Customer 378,Consumer,United States,Austin,Texas,31864,South,PID-1378,Technology,Phones,Phones Model 12,1918.22,10,0.3,290.18
+2023-07-18,2023-07-22,Standard Class,Customer 379,Corporate,United States,Rochester,New York,64046,West,PID-1379,Technology,Copiers,Copiers Model 49,3744.72,8,0.2,281.01
+2023-10-11,2023-10-15,Same Day,Customer 380,Corporate,United States,Rochester,New York,62047,West,PID-1380,Technology,Copiers,Copiers Model 1,800.12,4,0.2,-16.0
+2022-02-05,2022-02-08,First Class,Customer 381,Home Office,United States,San Diego,California,46170,West,PID-1381,Office Supplies,Binders,Binders Model 36,2462.55,5,0.1,561.12
+2023-06-08,2023-06-13,Second Class,Customer 382,Consumer,United States,Houston,Texas,43586,East,PID-1382,Office Supplies,Paper,Paper Model 20,259.31,3,0.2,63.48
+2022-04-05,2022-04-10,First Class,Customer 383,Home Office,United States,Tampa,Florida,94181,West,PID-1383,Technology,Phones,Phones Model 20,2403.56,6,0.1,106.09
+2022-02-08,2022-02-14,Second Class,Customer 384,Home Office,United States,Miami,Florida,95561,East,PID-1384,Office Supplies,Paper,Paper Model 39,1539.51,7,0.0,361.62
+2022-01-12,2022-01-18,Second Class,Customer 385,Consumer,United States,Miami,Florida,16621,Central,PID-1385,Technology,Phones,Phones Model 44,1675.0,6,0.1,-61.28
+2023-02-07,2023-02-11,First Class,Customer 386,Home Office,United States,Los Angeles,California,62322,South,PID-1386,Office Supplies,Paper,Paper Model 17,250.35,3,0.0,9.5
+2022-03-29,2022-04-02,Second Class,Customer 387,Home Office,United States,Tampa,Florida,90739,West,PID-1387,Furniture,Tables,Tables Model 48,1035.83,9,0.3,130.64
+2023-06-21,2023-06-23,Standard Class,Customer 388,Consumer,United States,Houston,Texas,52039,Central,PID-1388,Office Supplies,Paper,Paper Model 23,630.05,10,0.3,7.42
+2023-09-01,2023-09-07,Second Class,Customer 389,Consumer,United States,San Francisco,California,99831,West,PID-1389,Office Supplies,Art,Art Model 24,2553.02,8,0.3,-453.32
+2022-06-09,2022-06-16,First Class,Customer 390,Corporate,United States,Los Angeles,California,68990,East,PID-1390,Furniture,Bookcases,Bookcases Model 31,1311.0,3,0.2,-253.2
+2022-01-24,2022-01-27,Second Class,Customer 391,Home Office,United States,Austin,Texas,97590,West,PID-1391,Furniture,Bookcases,Bookcases Model 2,3421.53,9,0.3,381.57
+2023-01-21,2023-01-26,First Class,Customer 392,Consumer,United States,San Francisco,California,60940,West,PID-1392,Furniture,Tables,Tables Model 43,1595.24,4,0.2,-276.71
+2022-10-05,2022-10-11,First Class,Customer 393,Corporate,United States,New York City,New York,73525,East,PID-1393,Office Supplies,Art,Art Model 39,916.73,7,0.3,49.75
+2023-06-29,2023-06-30,Same Day,Customer 394,Home Office,United States,Houston,Texas,30578,South,PID-1394,Technology,Copiers,Copiers Model 2,39.08,1,0.2,-1.3
+2022-12-22,2022-12-28,First Class,Customer 395,Home Office,United States,Buffalo,New York,46725,Central,PID-1395,Furniture,Bookcases,Bookcases Model 15,2048.54,5,0.2,490.29
+2022-06-05,2022-06-08,Second Class,Customer 396,Corporate,United States,Tampa,Florida,50944,West,PID-1396,Furniture,Bookcases,Bookcases Model 39,1889.61,7,0.1,16.38
+2022-12-04,2022-12-08,Second Class,Customer 397,Corporate,United States,Houston,Texas,29025,West,PID-1397,Technology,Copiers,Copiers Model 42,1736.17,4,0.2,250.47
+2023-08-02,2023-08-04,Same Day,Customer 398,Corporate,United States,New York City,New York,49760,East,PID-1398,Furniture,Tables,Tables Model 29,1106.99,3,0.2,265.75
+2023-10-15,2023-10-21,Second Class,Customer 399,Home Office,United States,New York City,New York,40432,West,PID-1399,Furniture,Chairs,Chairs Model 15,97.73,3,0.2,10.05
+2023-12-05,2023-12-06,Same Day,Customer 400,Corporate,United States,New York City,New York,72108,South,PID-1400,Furniture,Bookcases,Bookcases Model 9,2450.06,10,0.2,-264.64
+2022-06-17,2022-06-19,First Class,Customer 401,Consumer,United States,Houston,Texas,67577,South,PID-1401,Furniture,Tables,Tables Model 40,887.78,7,0.1,158.81
+2023-05-17,2023-05-23,Same Day,Customer 402,Home Office,United States,Buffalo,New York,84964,West,PID-1402,Office Supplies,Paper,Paper Model 39,311.81,1,0.3,49.92
+2023-07-04,2023-07-09,Same Day,Customer 403,Home Office,United States,San Diego,California,15144,East,PID-1403,Office Supplies,Paper,Paper Model 36,441.33,1,0.1,26.19
+2023-02-01,2023-02-06,Same Day,Customer 404,Corporate,United States,Los Angeles,California,90364,Central,PID-1404,Office Supplies,Paper,Paper Model 4,1956.82,5,0.2,60.02
+2023-12-08,2023-12-13,Standard Class,Customer 405,Corporate,United States,Dallas,Texas,13265,South,PID-1405,Furniture,Bookcases,Bookcases Model 12,668.9,9,0.1,-2.32
+2023-04-10,2023-04-15,Same Day,Customer 406,Home Office,United States,Dallas,Texas,57571,East,PID-1406,Office Supplies,Paper,Paper Model 6,1094.46,3,0.0,-168.99
+2023-06-21,2023-06-27,Second Class,Customer 407,Consumer,United States,Tampa,Florida,28953,West,PID-1407,Office Supplies,Art,Art Model 12,287.52,7,0.1,73.64
+2023-12-31,2024-01-01,Second Class,Customer 408,Consumer,United States,Orlando,Florida,91600,Central,PID-1408,Technology,Accessories,Accessories Model 49,1603.49,5,0.0,399.7
+2022-09-17,2022-09-18,Same Day,Customer 409,Corporate,United States,Orlando,Florida,63759,South,PID-1409,Technology,Phones,Phones Model 29,4436.97,10,0.1,-406.26
+2022-03-23,2022-03-28,Second Class,Customer 410,Consumer,United States,Los Angeles,California,95626,Central,PID-1410,Technology,Copiers,Copiers Model 23,3722.92,9,0.1,-653.52
+2022-02-07,2022-02-09,Standard Class,Customer 411,Home Office,United States,San Diego,California,96628,Central,PID-1411,Office Supplies,Binders,Binders Model 45,72.27,1,0.1,-8.62
+2023-12-18,2023-12-23,Same Day,Customer 412,Home Office,United States,Dallas,Texas,18509,Central,PID-1412,Furniture,Chairs,Chairs Model 19,874.77,5,0.3,183.82
+2023-04-28,2023-04-30,First Class,Customer 413,Home Office,United States,San Diego,California,92441,Central,PID-1413,Office Supplies,Art,Art Model 34,1902.81,7,0.1,201.75
+2022-03-31,2022-04-04,Same Day,Customer 414,Home Office,United States,Buffalo,New York,92818,Central,PID-1414,Office Supplies,Art,Art Model 32,4976.12,10,0.2,1311.47
+2023-05-20,2023-05-27,First Class,Customer 415,Home Office,United States,Austin,Texas,37175,West,PID-1415,Technology,Accessories,Accessories Model 40,83.04,4,0.0,2.69
+2023-03-01,2023-03-05,Standard Class,Customer 416,Consumer,United States,San Francisco,California,50340,Central,PID-1416,Technology,Copiers,Copiers Model 20,101.69,4,0.1,14.75
+2023-06-03,2023-06-08,Second Class,Customer 417,Corporate,United States,New York City,New York,54294,East,PID-1417,Technology,Accessories,Accessories Model 44,1260.62,6,0.0,272.32
+2023-05-06,2023-05-10,Same Day,Customer 418,Home Office,United States,San Diego,California,17342,West,PID-1418,Office Supplies,Binders,Binders Model 34,3585.5,8,0.2,111.99
+2022-11-03,2022-11-08,Second Class,Customer 419,Corporate,United States,Rochester,New York,14085,East,PID-1419,Furniture,Bookcases,Bookcases Model 22,2422.66,6,0.2,-404.33
+2023-01-20,2023-01-26,Standard Class,Customer 420,Home Office,United States,Austin,Texas,14145,South,PID-1420,Furniture,Bookcases,Bookcases Model 18,870.01,2,0.2,132.79
+2023-02-28,2023-03-01,First Class,Customer 421,Consumer,United States,Miami,Florida,22137,Central,PID-1421,Office Supplies,Paper,Paper Model 29,1088.19,4,0.1,-156.57
+2023-06-03,2023-06-04,Second Class,Customer 422,Consumer,United States,Tampa,Florida,77652,West,PID-1422,Furniture,Tables,Tables Model 44,2972.57,8,0.2,558.15
+2022-05-16,2022-05-18,First Class,Customer 423,Corporate,United States,San Francisco,California,71194,South,PID-1423,Technology,Copiers,Copiers Model 3,43.95,2,0.0,6.31
+2022-04-16,2022-04-21,Standard Class,Customer 424,Corporate,United States,New York City,New York,97965,Central,PID-1424,Technology,Phones,Phones Model 8,697.6,6,0.2,-43.02
+2022-10-07,2022-10-09,Standard Class,Customer 425,Corporate,United States,Dallas,Texas,28554,East,PID-1425,Furniture,Bookcases,Bookcases Model 46,2400.74,9,0.1,171.09
+2022-10-18,2022-10-23,Same Day,Customer 426,Home Office,United States,Houston,Texas,16613,East,PID-1426,Office Supplies,Art,Art Model 7,1676.86,6,0.0,-226.31
+2023-01-28,2023-01-29,Standard Class,Customer 427,Corporate,United States,San Francisco,California,35971,South,PID-1427,Furniture,Bookcases,Bookcases Model 46,4478.12,10,0.3,484.34
+2023-11-18,2023-11-25,Same Day,Customer 428,Corporate,United States,San Francisco,California,40368,West,PID-1428,Furniture,Bookcases,Bookcases Model 15,533.49,8,0.2,75.88
+2022-05-28,2022-06-04,First Class,Customer 429,Consumer,United States,Buffalo,New York,72303,South,PID-1429,Furniture,Bookcases,Bookcases Model 8,2391.68,6,0.2,63.72
+2022-12-26,2022-12-30,First Class,Customer 430,Corporate,United States,Miami,Florida,82895,Central,PID-1430,Office Supplies,Art,Art Model 42,811.49,10,0.0,2.31
+2022-03-14,2022-03-21,Same Day,Customer 431,Corporate,United States,Rochester,New York,18658,South,PID-1431,Office Supplies,Art,Art Model 22,941.61,7,0.1,69.66
+2022-08-02,2022-08-09,Same Day,Customer 432,Consumer,United States,Orlando,Florida,87616,Central,PID-1432,Technology,Copiers,Copiers Model 39,412.32,4,0.0,69.96
+2023-04-20,2023-04-23,First Class,Customer 433,Consumer,United States,San Francisco,California,38522,West,PID-1433,Office Supplies,Paper,Paper Model 9,614.33,2,0.3,-22.3
+2023-08-18,2023-08-25,Standard Class,Customer 434,Corporate,United States,Los Angeles,California,84747,West,PID-1434,Office Supplies,Art,Art Model 44,1035.96,5,0.3,-105.84
+2022-11-08,2022-11-12,First Class,Customer 435,Consumer,United States,New York City,New York,83404,East,PID-1435,Technology,Copiers,Copiers Model 23,2988.06,7,0.2,-504.37
+2022-04-23,2022-04-30,Same Day,Customer 436,Corporate,United States,New York City,New York,67041,West,PID-1436,Office Supplies,Art,Art Model 35,2092.49,10,0.2,326.19
+2022-08-05,2022-08-11,Second Class,Customer 437,Corporate,United States,Dallas,Texas,97826,West,PID-1437,Furniture,Bookcases,Bookcases Model 9,2973.58,7,0.2,654.13
+2022-05-18,2022-05-19,Same Day,Customer 438,Corporate,United States,San Diego,California,89223,East,PID-1438,Furniture,Bookcases,Bookcases Model 28,2686.44,8,0.1,-423.57
+2023-10-01,2023-10-03,First Class,Customer 439,Home Office,United States,Tampa,Florida,75294,South,PID-1439,Technology,Accessories,Accessories Model 47,1333.83,7,0.1,16.52
+2022-08-31,2022-09-06,Same Day,Customer 440,Home Office,United States,Buffalo,New York,20494,Central,PID-1440,Furniture,Chairs,Chairs Model 10,2519.69,10,0.2,-361.37
+2023-06-24,2023-07-01,Standard Class,Customer 441,Home Office,United States,Buffalo,New York,16917,East,PID-1441,Technology,Copiers,Copiers Model 22,275.42,2,0.0,39.12
+2023-07-02,2023-07-09,Standard Class,Customer 442,Corporate,United States,San Francisco,California,31955,South,PID-1442,Technology,Accessories,Accessories Model 3,3722.31,10,0.3,-87.63
+2023-12-13,2023-12-18,Standard Class,Customer 443,Home Office,United States,Rochester,New York,91830,Central,PID-1443,Furniture,Bookcases,Bookcases Model 2,2380.06,8,0.0,305.03
+2022-10-21,2022-10-25,First Class,Customer 444,Home Office,United States,Los Angeles,California,24621,East,PID-1444,Office Supplies,Paper,Paper Model 39,946.75,3,0.2,216.74
+2022-06-28,2022-07-03,First Class,Customer 445,Corporate,United States,Austin,Texas,21062,South,PID-1445,Office Supplies,Binders,Binders Model 10,1978.07,5,0.1,83.99
+2023-09-02,2023-09-09,Standard Class,Customer 446,Consumer,United States,Dallas,Texas,94182,South,PID-1446,Office Supplies,Binders,Binders Model 17,2947.84,8,0.1,-278.78
+2022-04-29,2022-04-30,Same Day,Customer 447,Corporate,United States,Dallas,Texas,44422,South,PID-1447,Office Supplies,Paper,Paper Model 10,3025.22,8,0.1,-30.55
+2023-06-28,2023-07-05,Standard Class,Customer 448,Corporate,United States,Miami,Florida,90017,Central,PID-1448,Office Supplies,Paper,Paper Model 42,2889.88,6,0.0,-437.29
+2022-10-07,2022-10-10,Second Class,Customer 449,Home Office,United States,Buffalo,New York,54224,East,PID-1449,Office Supplies,Art,Art Model 44,2077.54,10,0.1,347.27
+2023-12-08,2023-12-10,Same Day,Customer 450,Corporate,United States,Rochester,New York,38759,East,PID-1450,Technology,Phones,Phones Model 47,51.48,2,0.0,3.22
+2022-10-18,2022-10-21,First Class,Customer 451,Home Office,United States,Houston,Texas,25725,East,PID-1451,Technology,Phones,Phones Model 6,470.48,1,0.1,129.5
+2023-09-12,2023-09-14,First Class,Customer 452,Home Office,United States,Tampa,Florida,69433,West,PID-1452,Furniture,Bookcases,Bookcases Model 18,424.8,3,0.3,55.33
+2023-03-14,2023-03-20,Standard Class,Customer 453,Corporate,United States,Buffalo,New York,33321,West,PID-1453,Furniture,Tables,Tables Model 29,203.74,1,0.2,60.71
+2022-03-13,2022-03-17,First Class,Customer 454,Corporate,United States,Austin,Texas,43947,South,PID-1454,Furniture,Bookcases,Bookcases Model 7,576.37,8,0.3,-52.34
+2022-02-05,2022-02-06,Same Day,Customer 455,Corporate,United States,San Diego,California,29871,Central,PID-1455,Office Supplies,Binders,Binders Model 45,731.6,8,0.0,194.93
+2022-12-04,2022-12-08,First Class,Customer 456,Corporate,United States,San Diego,California,73185,South,PID-1456,Office Supplies,Paper,Paper Model 8,2976.01,7,0.0,208.51
+2023-08-04,2023-08-09,Same Day,Customer 457,Corporate,United States,Buffalo,New York,94907,Central,PID-1457,Office Supplies,Binders,Binders Model 13,390.74,2,0.2,-62.43
+2022-06-30,2022-07-05,Same Day,Customer 458,Home Office,United States,San Francisco,California,34833,West,PID-1458,Office Supplies,Art,Art Model 9,3152.11,7,0.2,136.33
+2022-02-06,2022-02-08,Same Day,Customer 459,Consumer,United States,San Diego,California,14855,West,PID-1459,Office Supplies,Paper,Paper Model 22,801.03,2,0.2,39.92
+2022-02-27,2022-03-02,Second Class,Customer 460,Consumer,United States,San Francisco,California,14833,East,PID-1460,Furniture,Bookcases,Bookcases Model 48,2160.16,9,0.1,368.36
+2022-05-25,2022-05-29,First Class,Customer 461,Corporate,United States,San Francisco,California,90114,East,PID-1461,Furniture,Bookcases,Bookcases Model 11,80.69,3,0.0,20.36
+2023-08-29,2023-08-30,Same Day,Customer 462,Corporate,United States,Los Angeles,California,25833,South,PID-1462,Technology,Copiers,Copiers Model 44,201.17,4,0.1,2.64
+2023-08-13,2023-08-18,Same Day,Customer 463,Consumer,United States,Dallas,Texas,58487,West,PID-1463,Furniture,Bookcases,Bookcases Model 36,543.13,3,0.0,-34.25
+2022-06-18,2022-06-22,Same Day,Customer 464,Consumer,United States,Austin,Texas,10832,East,PID-1464,Furniture,Chairs,Chairs Model 1,2005.43,10,0.1,-385.41
+2022-07-03,2022-07-04,Same Day,Customer 465,Consumer,United States,Buffalo,New York,32878,South,PID-1465,Technology,Phones,Phones Model 40,354.73,4,0.2,21.83
+2023-12-10,2023-12-11,Second Class,Customer 466,Consumer,United States,Austin,Texas,79494,South,PID-1466,Technology,Phones,Phones Model 7,934.85,5,0.0,73.72
+2023-09-26,2023-09-29,Same Day,Customer 467,Corporate,United States,Dallas,Texas,33111,West,PID-1467,Office Supplies,Binders,Binders Model 11,296.34,4,0.1,42.26
+2023-11-18,2023-11-19,First Class,Customer 468,Home Office,United States,San Diego,California,33053,Central,PID-1468,Office Supplies,Binders,Binders Model 11,984.64,7,0.3,-175.6
+2022-01-30,2022-02-03,Standard Class,Customer 469,Consumer,United States,Los Angeles,California,24435,West,PID-1469,Technology,Accessories,Accessories Model 21,2982.86,10,0.3,-300.15
+2022-08-22,2022-08-23,Same Day,Customer 470,Consumer,United States,Austin,Texas,38333,South,PID-1470,Furniture,Tables,Tables Model 40,221.18,4,0.3,-38.23
+2023-04-11,2023-04-13,Second Class,Customer 471,Consumer,United States,Orlando,Florida,84536,West,PID-1471,Office Supplies,Art,Art Model 4,1293.48,4,0.2,-127.92
+2022-10-15,2022-10-17,Second Class,Customer 472,Home Office,United States,San Francisco,California,82450,South,PID-1472,Office Supplies,Binders,Binders Model 15,753.18,6,0.2,76.69
+2022-03-30,2022-04-03,Same Day,Customer 473,Home Office,United States,Miami,Florida,39151,South,PID-1473,Office Supplies,Paper,Paper Model 38,370.41,1,0.1,-28.18
+2022-06-02,2022-06-07,First Class,Customer 474,Corporate,United States,San Francisco,California,74918,East,PID-1474,Furniture,Tables,Tables Model 16,325.24,9,0.3,12.89
+2022-03-27,2022-04-01,Standard Class,Customer 475,Consumer,United States,San Diego,California,70199,South,PID-1475,Furniture,Chairs,Chairs Model 37,971.88,6,0.0,-186.63
+2023-08-21,2023-08-22,First Class,Customer 476,Home Office,United States,Orlando,Florida,19266,West,PID-1476,Technology,Accessories,Accessories Model 25,1197.4,3,0.2,135.79
+2023-12-09,2023-12-12,First Class,Customer 477,Home Office,United States,San Francisco,California,54000,South,PID-1477,Office Supplies,Art,Art Model 48,2803.69,10,0.1,543.48
+2022-02-26,2022-03-03,First Class,Customer 478,Home Office,United States,New York City,New York,36832,East,PID-1478,Office Supplies,Paper,Paper Model 9,2537.47,8,0.2,-42.59
+2022-12-09,2022-12-11,Standard Class,Customer 479,Home Office,United States,San Diego,California,99158,South,PID-1479,Technology,Copiers,Copiers Model 28,1526.09,4,0.1,-60.69
+2022-10-11,2022-10-12,Standard Class,Customer 480,Corporate,United States,San Francisco,California,91389,Central,PID-1480,Office Supplies,Paper,Paper Model 24,2455.27,9,0.0,86.14
+2023-11-21,2023-11-27,First Class,Customer 481,Consumer,United States,Los Angeles,California,31596,South,PID-1481,Furniture,Chairs,Chairs Model 18,3157.1,7,0.2,881.24
+2022-04-25,2022-05-01,Same Day,Customer 482,Corporate,United States,Dallas,Texas,94500,West,PID-1482,Furniture,Bookcases,Bookcases Model 2,160.72,1,0.1,5.94
+2022-10-26,2022-10-28,Standard Class,Customer 483,Corporate,United States,Los Angeles,California,87772,West,PID-1483,Technology,Copiers,Copiers Model 43,1305.67,6,0.2,166.97
+2023-12-15,2023-12-20,Standard Class,Customer 484,Corporate,United States,Orlando,Florida,16202,Central,PID-1484,Technology,Phones,Phones Model 10,512.17,5,0.2,-44.36
+2022-12-28,2022-12-31,Second Class,Customer 485,Consumer,United States,Miami,Florida,41182,West,PID-1485,Technology,Copiers,Copiers Model 8,537.47,5,0.1,118.06
+2022-02-12,2022-02-15,Standard Class,Customer 486,Consumer,United States,Dallas,Texas,58878,Central,PID-1486,Office Supplies,Binders,Binders Model 29,1159.98,4,0.0,154.02
+2023-07-07,2023-07-09,Standard Class,Customer 487,Home Office,United States,New York City,New York,48739,East,PID-1487,Office Supplies,Paper,Paper Model 31,1424.82,3,0.2,-173.79
+2022-10-24,2022-10-31,First Class,Customer 488,Corporate,United States,Austin,Texas,13250,South,PID-1488,Office Supplies,Art,Art Model 26,742.37,2,0.0,-96.72
+2023-09-25,2023-10-02,Second Class,Customer 489,Corporate,United States,Dallas,Texas,35652,Central,PID-1489,Furniture,Tables,Tables Model 2,311.91,1,0.1,28.61
+2022-03-27,2022-04-01,Standard Class,Customer 490,Corporate,United States,Tampa,Florida,29391,East,PID-1490,Technology,Accessories,Accessories Model 46,1021.69,4,0.0,259.74
+2023-03-14,2023-03-17,First Class,Customer 491,Consumer,United States,Orlando,Florida,68224,East,PID-1491,Office Supplies,Paper,Paper Model 48,1007.29,6,0.3,238.88
+2023-03-02,2023-03-09,Standard Class,Customer 492,Corporate,United States,Orlando,Florida,78852,West,PID-1492,Technology,Accessories,Accessories Model 22,608.95,7,0.0,-78.06
+2022-03-09,2022-03-14,Second Class,Customer 493,Consumer,United States,Miami,Florida,34380,East,PID-1493,Office Supplies,Art,Art Model 25,1094.83,5,0.3,169.83
+2022-10-24,2022-10-29,First Class,Customer 494,Consumer,United States,Miami,Florida,44429,Central,PID-1494,Technology,Accessories,Accessories Model 20,2307.64,8,0.3,-202.47
+2023-10-18,2023-10-25,Standard Class,Customer 495,Corporate,United States,Miami,Florida,18745,Central,PID-1495,Office Supplies,Binders,Binders Model 39,3642.09,8,0.1,-676.62
+2023-01-06,2023-01-11,First Class,Customer 496,Corporate,United States,Tampa,Florida,31344,South,PID-1496,Office Supplies,Art,Art Model 38,3901.15,8,0.0,-52.27
+2022-03-01,2022-03-03,Standard Class,Customer 497,Consumer,United States,Buffalo,New York,47992,West,PID-1497,Office Supplies,Binders,Binders Model 19,150.88,1,0.3,17.82
+2023-06-27,2023-07-03,Standard Class,Customer 498,Home Office,United States,San Diego,California,49462,West,PID-1498,Technology,Phones,Phones Model 18,614.81,2,0.1,44.18
+2023-12-03,2023-12-09,Same Day,Customer 499,Corporate,United States,New York City,New York,31368,Central,PID-1499,Furniture,Chairs,Chairs Model 7,806.17,3,0.2,152.69
+2022-08-12,2022-08-14,Same Day,Customer 500,Corporate,United States,Houston,Texas,50838,East,PID-1500,Office Supplies,Paper,Paper Model 45,151.9,2,0.1,39.75
